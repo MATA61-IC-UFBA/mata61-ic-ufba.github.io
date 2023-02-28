@@ -10,33 +10,34 @@ Análise e Síntese. Análise léxica, sintática e semântica. Geração de có
 
 ## Programa
 
-   1. Introdução à Compilação de Programas:
-      a) Conceitos básicos e funcionalidades;
-      b) Componentes de um compilador;
-      c) Fases de Análise e Síntese. 
+1. Introdução à Compilação de Programas:
+
+   + Conceitos básicos e funcionalidades;
+   + Partes de um compilador;
+   + Fases de Análise e Síntese. 
       
-   2. Análise Léxica: 
-      a) Conceitos básicos (tokens, lexemas, etc.);
-      b) Especificação e reconhecimento de linguagens regulares;
-      c) Implementação e geração de analisadores léxicos.
+2. Análise Léxica: 
+   + Conceitos básicos (tokens, lexemas, etc.);
+   + Especificação e reconhecimento de linguagens regulares;
+   + Implementação e geração de analisadores léxicos.
       
-   3. Análise Sintática: 
+3. Análise Sintática: 
       a) Conceitos básicos (derivação, árvores sintáticas, ambiguidade, etc.);
       b) Especificação e reconhecimento de linguagens livres de contexto; 
       c) Análise LL e LR;
       d) Implementação e geração de analisadores sintáticos;
       e) Árvores sintáticas abstratas.
       
-   4. Análise semântica: 
+4. Análise semântica: 
       a) Conceitos básicos;
       b) Sistemas de tipos;
       c) Tabela de símbolos e resolução de nomes;
       d) Implementação de verificação de tipos. 
       
-   5. Representação intermediária 
-   6. Ambientes de execução, organização de memória
-   7. Geração de código 
-   8. Otimização de código
+5. Representação intermediária 
+6. Ambientes de execução, organização de memória
+7. Geração de código 
+8. Otimização de código
 
 
 ## Material de Apoio
