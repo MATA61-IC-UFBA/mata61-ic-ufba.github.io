@@ -1,7 +1,7 @@
 ## Atividades
 
 * Trabalho Prático:  Projetar e implementar um compilador para uma linguagem simples e de alto nível.
-   * [Analisador Léxico (T1)](./T1.md) - Peso 2
+   * [Analisador Léxico (T1)](./t1.md) - Peso 2
    * Analisador Sintático (T2) - Peso 1
    * Gerador de AST (T3) - Peso 3
    * Analisador Semântico (T4) - Peso 3
