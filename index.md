@@ -3,6 +3,7 @@ Página da disciplina MATA61 - Compiladores.
 
   * Calendário Acadêmico
   * [Plano de Aulas](./2023/plano.md)
+  * [Avaliações](./2023/avaliacao.md)
 
 ## Ementa
 
