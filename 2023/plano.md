@@ -1,3 +1,5 @@
+Plano de Aulas para 2023.1.
+
 ## Plano de Aulas
 
 | Dia | Data | Assunto | Atividade 
@@ -6,7 +8,7 @@
 | 3   | 27/3 | [Conceitos básicos de análise léxica](https://www3.nd.edu/~dthain/compilerbook/chapter3.pdf); Expressões regulares (ER) | Quiz 2
 | 4   | 29/3 | Autômatos finitos (AF); Transformação de ERs para AFs | Quiz 3
 | 5   | 03/4 | Geração de analisadores léxicos; Flex | Exercício 1
-| 6   | 05/4 | Especificação do trabalho prático 1 | Aula prática
+| 6   | 05/4 | [Especificação de T1](./t1.md) | Aula prática
 | 7   | 10/4 | [Conceitos básicos de análise sintática](https://www3.nd.edu/~dthain/compilerbook/chapter4.pdf) | 
 | 8   | 12/4 | Conceitos básicos de análise sintática | Quiz 4
 | 9   | 17/4 | Especificação de aspectos sintáticos | 
