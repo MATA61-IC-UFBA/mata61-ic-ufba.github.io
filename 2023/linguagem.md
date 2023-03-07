@@ -1,10 +1,8 @@
 
-## Especificação
+Especificação da [Linguagem B-](https://www3.nd.edu/~dthain/compilerbook/chapterB.pdf)
 
-* [Linguagem B-](https://www3.nd.edu/~dthain/compilerbook/chapterB.pdf)
+## Aspectos Léxicos
 
-### Aspectos Léxicos
+## Aspectos Sintáticos
 
-### Aspectos Sintáticos
-
-### Aspectos Semânticos
+## Aspectos Semânticos
