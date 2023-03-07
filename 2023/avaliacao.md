@@ -1,14 +1,16 @@
 ## Atividades
 
-* Trabalho Prático:  Projetar e implementar um compilador (incluindo Analisador Léxico, Analisador Sintático, Gerador de AST, Analisador Semântico e Gerador de Código) para uma linguagem simples e de alto nível.
-* Outras Atividades: Quizzes,  exercícios individuais
+* Trabalho Prático:  Projetar e implementar um compilador para uma linguagem simples e de alto nível.
+   * Analisador Léxico (T1) - Peso 2
+   * Analisador Sintático (T2) - Peso 1
+   * Gerador de AST (T3) - Peso 3
+   * Analisador Semântico (T4) - Peso 3
+   * Gerador de Código (T5) - Peso 1
+
+* Quizzes (Q1 a Q10)
+* Exercícios (E1, E2, E3)
 
 ## Pesos
 
 * Quizzes de revisão e exercícios práticos (40% da nota final)
-* Trabalho prático de implementação de um compilador (60% da nota final). A nota do trabalho é a média ponderada das notas das 5 partes do trabalho, a saber: 
-   * (nota da análise léxica (peso 2) + 
-   * nota análise sintática (peso 1 ) + 
-   * nota do gerador de AST (peso 3) + 
-   * nota da verificação de tipos (peso 3) + 
-   * nota da geração de código (peso 1)) / 10.
+* Trabalho prático de implementação de um compilador (60% da nota final). 
