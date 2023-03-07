@@ -1,4 +1,7 @@
+
 ## Especificação
+
+* [Linguagem B-][https://www3.nd.edu/~dthain/compilerbook/chapterB.pdf]
 
 ### Aspectos Léxicos
 
