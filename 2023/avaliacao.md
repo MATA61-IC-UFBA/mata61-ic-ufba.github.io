@@ -7,8 +7,8 @@
    * Analisador Semântico (T4) - Peso 3
    * Gerador de Código (T5) - Peso 1
 
-* Quizzes (Q1 a Q10)
-* Exercícios (E1, E2, E3)
+* Quizzes (Q1 a Q18)
+* Exercícios (E1, E2)
 
 ## Pesos
 
