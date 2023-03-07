@@ -1,3 +1,5 @@
+Atividades de avaliação e seus pesos. 
+
 ## Atividades
 
 * Trabalho Prático:  Projetar e implementar um compilador para uma linguagem simples e de alto nível.
