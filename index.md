@@ -1,7 +1,7 @@
 
 Página da disciplina MATA61 - Compiladores.
 
-  * Calendário Acadêmico
+  * [Calendário Acadêmico](https://supac.ufba.br/sites/supac.ufba.br/files/calendario_academico_2023-1-2_-_aprov._24.10.22_-_v1_atualizado_27.10.22_0.pdf)
   * [Plano de Aulas](./2023/plano.md)
   * [Avaliações](./2023/avaliacao.md)
 
@@ -36,14 +36,15 @@ Análise e Síntese. Análise léxica, sintática e semântica. Geração de có
 
 ## Material de Apoio
 
-- Tutoriais: Git & GitHub Basics; Git-it: https://github.com/jlord/git-it-electron/releases
+- Tutorial: Git & GitHub Basics (no GitHub); 
+- Tutorial Git-it: https://github.com/jlord/git-it-electron/releases
 
 ## Bibliografia
 
 ### Básica
 
 1. THAIN, Douglas. Introduction to Compilers and Language Design. 2a Ed, 2020, http://compilerbook.org.
-2. AHO, A. et al. Compiladores: princípios, técnicas e ferramentas. 2a Ed., Addison-Wesley, 2008. 
+2. AHO, A. et al. Compiladores: princípios, técnicas e ferramentas. 2a Ed., Addison-Wesley, 2008. Livro do "Dragão".
 3. LEVINE, John. Lex & Bison. O'Reilley. 2009. 
 
 ### Complementar
