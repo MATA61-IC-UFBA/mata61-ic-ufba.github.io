@@ -10,19 +10,29 @@ Atividades de avaliação e seus pesos.
    * Gerador de Código (T5) - Peso 1
 
 * Quizzes (No Google Classroom)
-   * Quiz 1
-   * Quiz 2
-   * Quiz 3
-   * Quiz 4
-   * Quiz 5
-   * Quiz 6
+   * Quiz 1 - Conceitos básicos de compiladores
+   * Quiz 2 - Análise Léxica
+   * Quiz 3 - ER e AFD
+   * Quiz 4 - Conceitos básicos de análise sintática
+   * Quiz 5 - Análise sintática ascendente
+   * Quiz 6 - AST
+   * Quiz 7 - Conceitos básicos de análise semântica
+   * Quiz 8 - Verificação de tipos
+   * Quiz 9 - Representações intermediárias
+   * Quiz 10 - Organização de memória
+   * Quiz 11 - Conceitos básicos de geração de código
+
 
 * [Exercícios](https://github.com/MATA61-IC-UFBA/mata61-ic-ufba-exercicios)
-  * E1 
-  * E2
-  * E3
-  * E4
-  * E5
+  * E1 - Aquecimento com Flex
+  * E2 - Análise Preditiva
+  * E3 - Análise LL(1)
+  * E4 - Análise Ascendente
+  * E5 - Aquecimento com Bison
+  * E6 - Bison e ações semânticas
+  * E7 - Bison e construção da AST
+  * E8 - Tabela de símbolos
+  * E9 - Verificação de tipos
 
 ## Pesos
 
@@ -31,4 +41,7 @@ Atividades de avaliação e seus pesos.
 
 # Equipes
 
-A partir do trabalho T2, trabalho em equipe de até cinco (5) participantes.
+A partir do trabalho T2, os trabalhos serão desenvolvidos em equipe. 
+Máximo de cinco (5) participantes por equipe.
+
+

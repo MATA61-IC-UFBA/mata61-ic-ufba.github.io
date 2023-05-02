@@ -20,22 +20,22 @@ Plano de Aulas para 2023.1.
 | 12  | 26/4 | Análise LL(1) | Exercício 3
 | 13  | 01/5 | FERIADO - Especificação de T1 |
 | 14  | 03/5 | Aula prática e dúvidas sobre T1 (via Discord) |
-| 15  | 08/5 | Exercícios práticos com Bison e ações semânticas | Especificação de T2
+| 15  | 08/5 | Análise ascendente. Análise SLR | Exercício 4
 | 16  | 10/5 | [Árvore Sintática Abstrata (AST)](https://www3.nd.edu/~dthain/compilerbook/chapter6.pdf) | Quiz 5
-| 17  | 15/5 | Exercícios práticos com Bison, ações semânticas e AST | Especificação de T3
-| 18  | 17/5 | Análise sintática ascendente; Análise SLR | Exercício 4 (*Entrega de T1*)
-| 19  | 22/5 | Implementação e dúvidas sobre T2 |
+| 17 (P) | 15/5 | Exercício 6 - Bison, ações semânticas e AST | Especificação de T3
+| 18  | 17/5 | Análise SLR, Análise LR(k) e LALR(1) | (*Entrega de T1*)
+| 19 (P) | 22/5 | Implementação e dúvidas sobre T2 |
 | 20  | 24/5 | Análise LR(k) e LALR(1) | Quiz 6 (*Entrega de T2*)
 | 21  | 29/5 | Conceitos básicos de análise semântica | Quiz 7 (*Entrega de T3*)
 | 22  | 31/5 | Tabela de símbolos; Resolução de nomes | Especificação de T4 (mini)
-| 23 (P) | 05/6 | Tabela de símbolos | Exercício em lab
+| 23 (P) | 05/6 | Tabela de símbolos | Exercício 7 - Tabela de símbolos
 | 24  | 07/6 | Aula prática | (*Entrega de T3*)
-| 25  | 12/6 | Verificação de Tipos | Exercício em lab, Quiz 8
-| 26  | 14/6 | [Representações Intermediárias](https://www3.nd.edu/~dthain/compilerbook/chapter8.pdf) | Quiz 9 
-| 27  | 19/6 | [Organização de Memória](https://www3.nd.edu/~dthain/compilerbook/chapter9.pdf) | Quiz 10
-| 28  | 21/6 | [Linguagens de Montagem](https://www3.nd.edu/~dthain/compilerbook/chapter10.pdf) | Quiz 11
-| 29 (P) | 26/6 | [Geração de Código](https://www3.nd.edu/~dthain/compilerbook/chapter11.pdf) | Quiz 12 |
-| 30  | 28/6 | Especificação de T5 | (*Entrega de T4*) |
+| 25 (P) | 12/6 | Verificação de Tipos | Exercício 8 - Verificação de tipos
+| 26  | 14/6 | [Representações Intermediárias](https://www3.nd.edu/~dthain/compilerbook/chapter8.pdf) | Quiz 8 
+| 27  | 19/6 | [Organização de Memória](https://www3.nd.edu/~dthain/compilerbook/chapter9.pdf) | Quiz 9
+| 28  | 21/6 | [Linguagens de Montagem](https://www3.nd.edu/~dthain/compilerbook/chapter10.pdf) | Quiz 10, Especificação de T5
+| 29 (P) | 26/6 | [Geração de Código](https://www3.nd.edu/~dthain/compilerbook/chapter11.pdf) | Quiz 11
+| 30  | 28/6 |  | (*Entrega de T4*) |
 | 31 (P) | 03/7 | Aula Prática |
 | 32  | 05/7 | Aula Prática | 
 | 33 (P) | 10/7 | Aula Prática | (*Entrega de T5*)
