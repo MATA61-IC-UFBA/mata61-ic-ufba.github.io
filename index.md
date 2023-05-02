@@ -1,7 +1,7 @@
 
 Página da disciplina MATA61 - Compiladores.
 
-  * [Calendário Acadêmico](https://supac.ufba.br/sites/supac.ufba.br/files/calendario_academico_2023-1-2_-_aprov._24.10.22_-_v1_atualizado_27.10.22_0.pdf)
+  * [Calendário Acadêmico](https://supac.ufba.br/sites/supac.ufba.br/files/calendario_academico_2023-1-2.pdf)
   * [Plano de Aulas](./2023/plano.md)
   * [Avaliações](./2023/avaliacao.md)
 
