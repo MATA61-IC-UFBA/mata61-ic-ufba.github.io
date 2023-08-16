@@ -1,4 +1,4 @@
-Plano de Aulas para 2023.2.
+2023.2 - Plano de Aulas
 
 - SEG, 16:40h
 - QUA, 16:40h
