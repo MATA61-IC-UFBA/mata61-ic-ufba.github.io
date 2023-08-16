@@ -2,7 +2,8 @@ Atividades de avaliação e seus pesos.
 
 ## Atividades
 
-* [Trabalhos Práticos](https://github.com/MATA61-IC-UFBA/mata61-ic-ufba-trabalhos): Projeto e implementação de um compilador para uma linguagem simples e de alto nível.
+* [Trabalhos Práticos](https://github.com/MATA61-IC-UFBA/mata61-ic-ufba-trabalhos)
+Projeto e implementação de um compilador para uma linguagem simples e de alto nível.
    * Analisador Léxico (T1) - Peso 25 - individual
    * Analisador Sintático (T2) - Peso 15 - individual
    * Gerador de AST (T3) - Peso 25
