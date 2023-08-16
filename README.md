@@ -1,6 +1,4 @@
-# Página da disciplina MATA61 - Compiladores.
 
-  * Calendário Acadêmico
   * [Semestre Atual](./index.md)
 
 
