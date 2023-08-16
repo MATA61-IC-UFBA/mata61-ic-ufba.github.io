@@ -1,7 +1,6 @@
 
   * [Semestre Atual](./index.md)
 
-
 ## Ementa
 
 Análise e Síntese. Análise léxica, sintática e semântica. Geração de código intermediário.  Otimização de código intermediário. Geração e otimização de código objeto. 
