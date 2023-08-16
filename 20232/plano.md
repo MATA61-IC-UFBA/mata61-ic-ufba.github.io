@@ -1,16 +1,19 @@
-Plano de Aulas para 2023.1.
+Plano de Aulas para 2023.2.
 
-- SEG, 16:40h, LAB 143 - IME/UFBA.
-- QUA, 16:40h, Sala 103 - PAF I.
+- SEG, 16:40h
+- QUA, 16:40h
 
 ## Plano de Aulas
 
 | Dia | Data | Assunto | Atividade 
-| 1 (P) | 20/3 | Apresentação da disciplina |
-| 2 (T) | 22/3 | Conceitos básicos de compiladores | Quiz 1
-| 3 (P) | 27/3 | [Conceitos básicos de análise léxica](https://www3.nd.edu/~dthain/compilerbook/chapter3.pdf); Expressões regulares (ER) | Quiz 2
-| 4   | 29/3 | Autômatos finitos (AF); Transformação de ERs para AFs | Quiz 3
-| 5 (P) | 03/4 | Geração de analisadores léxicos; Flex | Exercício 1 - Aquecimento com Flex
+|       | 14/8 | 
+| 1 (P) | 16/8 | Apresentação da disciplina |
+| 2 (T) | 21/8 | Conceitos básicos de compiladores | Quiz 1
+| 3 (P) | 23/8 | [Conceitos básicos de análise léxica](https://www3.nd.edu/~dthain/compilerbook/chapter3.pdf); Expressões regulares (ER) | Quiz 2
+| 4   | 28/8 | Autômatos finitos (AF); Transformação de ERs para AFs | Quiz 3
+| 5 (P) | 30/8 | Geração de analisadores léxicos; Flex | Exercício 1 - Aquecimento com Flex
+
+<!--
 | 6 (T) | 05/4 |  | 
 | 7   | 10/4 | [Conceitos básicos de análise sintática](https://www3.nd.edu/~dthain/compilerbook/chapter4.pdf) | 
 | 8   | 12/4 | Conceitos básicos de análise sintática | Quiz 4
@@ -40,3 +43,6 @@ Plano de Aulas para 2023.1.
 | 32  | 05/7 | Aula Prática | 
 | 33 (P) | 10/7 | Aula Prática | (*Entrega de T5*)
 | 34  | 12/7 | Resultados |
+
+-->
+
