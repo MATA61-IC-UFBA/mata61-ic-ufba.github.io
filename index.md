@@ -43,7 +43,7 @@ Análise e Síntese. Análise léxica, sintática e semântica. Geração de có
 
 ### Básica
 
-1. THAIN, Douglas. Introduction to Compilers and Language Design. 2a Ed, 2020, http://compilerbook.org.
+1. THAIN, Douglas. [Introduction to Compilers and Language Design](https://www3.nd.edu/~dthain/compilerbook/). 2a Ed, 2020, http://compilerbook.org.
 2. AHO, A. et al. Compiladores: princípios, técnicas e ferramentas. 2a Ed., Addison-Wesley, 2008. Livro do "Dragão".
 3. LEVINE, John. Lex & Bison. O'Reilley. 2009. 
 
