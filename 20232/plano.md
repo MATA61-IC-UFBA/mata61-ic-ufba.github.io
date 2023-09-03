@@ -13,9 +13,9 @@
 | 4   | 28/8 | Autômatos finitos (AF); Transformação de ERs para AFs | Quiz 3
 | 5 (P) | 30/8 | Geração de analisadores léxicos; Flex | Exercício 1 - Aquecimento com Flex
 
+| 6 (T) | 04/9 | Especificação de T1 | 
+| 7   | 06/9 | [Conceitos básicos de análise sintática](https://www3.nd.edu/~dthain/compilerbook/chapter4.pdf) | 
 <!--
-| 6 (T) | 05/4 |  | 
-| 7   | 10/4 | [Conceitos básicos de análise sintática](https://www3.nd.edu/~dthain/compilerbook/chapter4.pdf) | 
 | 8   | 12/4 | Conceitos básicos de análise sintática | Quiz 4
 | 9   | 17/4 | [Geração de analisadores sintáticos](https://www3.nd.edu/~dthain/compilerbook/chapter5.pdf); Bison e integração com Flex | Exercício 5 - Aquecimento com Bison
 | 10  | 19/4 | Análise sintática descendente;
