@@ -9,9 +9,9 @@ Plano de Aulas para 2023.1.
 | 1 (P) | 20/3 | Apresentação da disciplina |
 | 2 (T) | 22/3 | Conceitos básicos de compiladores | Quiz 1
 | 3 (P)  | 27/3 | [Conceitos básicos de análise léxica](https://www3.nd.edu/~dthain/compilerbook/chapter3.pdf); Expressões regulares (ER) | Quiz 2
-| 4   | 29/3 | Autômatos finitos (AF); Transformação de ERs para AFs | Quiz 3
+| 4   | 29/3 | Acolhimento / Autômatos finitos (AF); Transformação de ERs para AFs | Quiz 3
 | 5 (P) | 03/4 | Geração de analisadores léxicos; Flex | Exercício 1
-| 6   | 05/4 | [Especificação de T1](./t1.md) | Aula prática
+| 6   | 05/4 | Semana Santa / [Especificação de T1](./t1.md) | Aula prática
 | 7   | 10/4 | [Conceitos básicos de análise sintática](https://www3.nd.edu/~dthain/compilerbook/chapter4.pdf) | 
 | 8   | 12/4 | Conceitos básicos de análise sintática | Quiz 4
 | 9   | 17/4 | Especificação de aspectos sintáticos | 
