@@ -1,9 +1,9 @@
 
 Página da disciplina MATA61 - Compiladores.
 
-  * [Calendário Acadêmico](https://supac.ufba.br/sites/supac.ufba.br/files/calendario_academico_2023-1-2_-_aprov._24.10.22_-_v1_atualizado_27.10.22_0.pdf)
-  * [Plano de Aulas](./2023/plano.md)
-  * [Avaliações](./2023/avaliacao.md)
+  * [Calendário Acadêmico](https://supac.ufba.br/sites/supac.ufba.br/files/calendario_academico_2023-1-2.pdf)
+  * [Plano de Aulas](./20232/plano.md)
+  * [Avaliações](./20232/avaliacao.md)
 
 ## Ementa
 
@@ -43,7 +43,7 @@ Análise e Síntese. Análise léxica, sintática e semântica. Geração de có
 
 ### Básica
 
-1. THAIN, Douglas. Introduction to Compilers and Language Design. 2a Ed, 2020, http://compilerbook.org.
+1. THAIN, Douglas. [Introduction to Compilers and Language Design](https://www3.nd.edu/~dthain/compilerbook/). 2a Ed, 2020, http://compilerbook.org.
 2. AHO, A. et al. Compiladores: princípios, técnicas e ferramentas. 2a Ed., Addison-Wesley, 2008. Livro do "Dragão".
 3. LEVINE, John. Lex & Bison. O'Reilley. 2009. 
 
@@ -55,6 +55,10 @@ Análise e Síntese. Análise léxica, sintática e semântica. Geração de có
 7. MITCHELL, J. Foundation for Programming Languages. Foundations of Computing, MIT Press, 1996.  
 8. WINSKEL, G. The Formal Semantics of Programming Languages: An Introduction. Foundations of Computing series. MIT Press, Cambridge, Massachusetts, February 1993. 
 9. SCOTT, M.L. Programming Language Pragmatics, 3rd ed.
+
+### Recursos Educacionais Abertos (REA)
+
+* [GNU Compiler Collection (GCC) Internals](http://gcc.gnu.org/onlinedocs/gccint/)
 
 ----
   See [LICENSE](LICENSE) for more information.
