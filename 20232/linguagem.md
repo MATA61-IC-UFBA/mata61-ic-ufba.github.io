@@ -1,5 +1,4 @@
-
-2023.2 - Especificação da Linguagem para o Trabalho Prático.
+# 2023.2 - Especificação da Linguagem para o Trabalho Prático.
 
 Em definição.
 
