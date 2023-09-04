@@ -20,7 +20,7 @@
 | 11  | 20/9 | Análise LL(1) | Exercício 5
 | 12  | 25/9 | Aula de Exercícios | Entrega de T1
 | 13  | 27/9 | Aula de exercícios | Especificação de B-Lite (Aspectos sintáticos)
-<!--
+<!-
 | 14  | 03/5 |  |
 | 15  | 08/5 | Análise ascendente. Análise SLR | Exercício 4
 | 16  | 10/5 | [Árvore Sintática Abstrata (AST)](https://www3.nd.edu/~dthain/compilerbook/chapter6.pdf) | Quiz 5
