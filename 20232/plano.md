@@ -6,7 +6,7 @@
 ## Plano de Aulas
 
 | Dia | Data | Assunto | Atividade 
-|       | 14/8 | 
+|   -   | 14/8 | -
 | 1 (P) | 16/8 | Apresentação da disciplina |
 | 2 (T) | 21/8 | Conceitos básicos de compiladores | Quiz 1
 | 3 (P) | 23/8 | [Conceitos básicos de análise léxica](https://www3.nd.edu/~dthain/compilerbook/chapter3.pdf); Expressões regulares (ER) | Quiz 2
@@ -19,6 +19,10 @@
 | 10 (P) | 18/9 | Análise sintática preditiva | Exercício 4
 | 11  | 20/9 | Análise LL(1) | Exercício 5
 | 12  | 25/9 | Aula de Exercícios | Entrega de T1
-| 13  | 27/9 | Aula de exercícios | Especificação de B-Lite (Aspectos sintáticos)
+| 13  | 27/9 | Especificação de T2 | Especificação de B-Lite (Aspectos sintáticos)
+| 14 (P) | 02/10 | Bison e integração com Flex 2 | Exercício 6 - Validador
+| 15  | 04/10 | Análise sintática ascendente | Quiz 5
+| 16 (P) | 09/10 | Bison e integração com Flex 2 | Exercício 7 - Interpretador
+| 17  | 11/10 | Análise SLR | Exercício 8
 
 
