@@ -17,12 +17,18 @@
 | 8 (P) | 11/9 | Bison e integração com Flex | Exercício 2 - Aquecimento com Bison
 | 9   | 13/9 | Análise sintática descendente | Exercício 3
 | 10 (P) | 18/9 | Análise sintática preditiva | Exercício 4
-| 11  | 20/9 | Análise LL(1) | Exercício 5
+| 11  | 20/9 | Análise LL(1) | Exercício 5, parte 1
 | 12  | 25/9 | Aula de Exercícios | Entrega de T1
 | 13  | 27/9 | Especificação de T2 | Especificação de B-Lite (Aspectos sintáticos)
 | 14 (P) | 02/10 | Bison e integração com Flex 2 | Exercício 6 - Validador
 | 15  | 04/10 | Análise sintática ascendente | Quiz 5
 | 16 (P) | 09/10 | Bison e integração com Flex 2 | Exercício 7 - Interpretador
-| 17  | 11/10 | Análise SLR | Exercício 8
+| 17  | 11/10 | Análise SLR, LR(1) | Exercício 5, parte 2
+| 18  | 16/10 | Sem aula | Uso do horário para fazer exercícios
+| 19  | 18/10 | Tradução dirigida por sintaxe | Exercício 8 - Avaliador
+| 20  | 23/10 | Especificação de T2 | B-Lite (Aspectos sintáticos); Exercício 9 - Gramática para Blite
+| 21  | 25/10 |  | 
+| 22  | 30/10 |  | 
+| 23  | 01/11 | Especificação do T3 | 
 
 
