@@ -17,12 +17,12 @@
 | 8 (P) | 11/9 | Bison e integração com Flex | Exercício 2 - Aquecimento com Bison
 | 9   | 13/9 | Análise sintática descendente | Exercício 3
 | 10 (P) | 18/9 | Análise sintática preditiva | Exercício 4
-| 11  | 20/9 | Análise LL(1) | Exercício 5
-| 12  | 25/9 | Aula de Exercícios | Entrega de T1
-| 13  | 27/9 | Especificação de T2 | Especificação de B-Lite (Aspectos sintáticos)
-| 14 (P) | 02/10 | Bison e integração com Flex 2 | Exercício 6 - Validador
-| 15  | 04/10 | Análise sintática ascendente | Quiz 5
-| 16 (P) | 09/10 | Bison e integração com Flex 2 | Exercício 7 - Interpretador
-| 17  | 11/10 | Análise SLR | Exercício 8
-
+| 11  | 20/9 | Análise LL(1) | Exercício 5 (questão 1)
+| 12  | 25/9 | SBES 2023 | Leitura e exercícios, Entrega de T1
+| 13  | 27/9 | SBES 2023 | Leitura e exercícios
+| 14 (P) | 02/10 | Bison básico | Exercício 2 - Validador
+| 15  | 04/10 | Análise sintática ascendente, Análise SLR | Exercício 5 (questão 2)
+| 16 (P) | 09/10 | Análise LR(1), LALR(1) e Bison | Exercício 6
+| 17  | 11/10 | Bison e ações semânticas | Exercício 7 - Interpretador
+| 13  | 16/10 | Especificação de T2 | Especificação de B-Lite (Aspectos sintáticos)
 
