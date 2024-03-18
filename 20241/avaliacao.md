@@ -1,4 +1,3 @@
-# Avaliações
 
 ## Atividades
 
