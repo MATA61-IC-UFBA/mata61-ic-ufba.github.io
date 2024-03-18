@@ -1,4 +1,3 @@
-# Plano de Aulas
 
 - SEG, 16:40h
 - QUA, 16:40h
