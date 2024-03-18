@@ -28,7 +28,7 @@ Projeto e implementação de um compilador para uma linguagem simples e de alto 
 * Mini-teste 1 (15% da nota final)
 * Mini-teste 2 (15% da nota final)
 
-# Equipes
+## Equipes
 
 A partir do trabalho T3, os trabalhos serão desenvolvidos em equipe, 
 com número máximo de cinco (5) participantes por equipe.
