@@ -1,8 +1,8 @@
-2024.1 - Avaliação
+# 2024.1 - Avaliação
 
 ## Atividades
 
-* Trabalho Prático. <!--(https://github.com/MATA61-IC-UFBA/mata61-ic-ufba-trabalhos)-->
+* Trabalho Prático
 Projeto e implementação de um compilador para uma linguagem simples e de alto nível.
    * Analisador Léxico (T1) - Peso 20 - individual
    * Analisador Sintático (T2) - Peso 15 - individual
@@ -10,7 +10,7 @@ Projeto e implementação de um compilador para uma linguagem simples e de alto 
    * Analisador Semântico (T4) - Peso 25
    * Gerador de Código (T5) - Peso 20
 
-* Exercícios práticos <!--(https://github.com/MATA61-IC-UFBA/mata61-ic-ufba-exercicios)-->
+* Exercícios práticos 
   * E1 - Flex e análise léxica
   * E2 - Bison e análise sintática
   * E3 - Bison e ações 
@@ -31,7 +31,5 @@ Projeto e implementação de um compilador para uma linguagem simples e de alto 
 
 # Equipes
 
-A partir do trabalho T2, os trabalhos serão desenvolvidos em equipe, 
+A partir do trabalho T3, os trabalhos serão desenvolvidos em equipe, 
 com número máximo de cinco (5) participantes por equipe.
-
-
