@@ -1,8 +1,8 @@
 Página da disciplina MATA61 - Compiladores.
 
-  * [Calendário Acadêmico](https://supac.ufba.br/sites/supac.ufba.br/files/calendario_academico_2023-1-2.pdf)
-  * [Plano de Aulas](./20232/plano.md)
-  * [Avaliações](./20232/avaliacao.md)
+  * [Calendário Acadêmico](https://supac.ufba.br/sites/supac.ufba.br/files/calendario_academico_2024.1_e2024.2_versao_11_03_2024.pdf)
+  * [Plano de Aulas](./20241/plano.md)
+  * [Avaliações](./20241/avaliacao.md)
 
 ## Ementa
 
@@ -44,7 +44,7 @@ Análise e Síntese. Análise léxica, sintática e semântica. Geração de có
 
 1. THAIN, Douglas. [Introduction to Compilers and Language Design](https://www3.nd.edu/~dthain/compilerbook/). 2a Ed, 2020, http://compilerbook.org.
 2. AHO, A. et al. Compiladores: princípios, técnicas e ferramentas. 2a Ed., Addison-Wesley, 2008. Livro do "Dragão".
-3. LEVINE, John. Lex & Bison. O'Reilley. 2009. 
+3. LEVINE, John. Lex & Bison. O'Reilly. 2009. 
 
 ### Complementar
 
