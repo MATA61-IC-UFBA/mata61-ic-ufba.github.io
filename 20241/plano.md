@@ -1,4 +1,4 @@
-# 2024.1 - Plano de Aulas
+# Plano de Aulas
 
 - SEG, 16:40h
 - QUA, 16:40h
