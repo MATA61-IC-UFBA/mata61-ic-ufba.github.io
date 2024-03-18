@@ -1,8 +1,6 @@
 
-- SEG, 16:40h
-- QUA, 16:40h
-
-## Plano de Aulas
+- SEG (P), 16:40h
+- QUA (T), 16:40h
 
 | Dia | Data | Assunto | Atividade 
 | - | 11/3 | -
