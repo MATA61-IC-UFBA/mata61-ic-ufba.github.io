@@ -1,3 +1,3 @@
-# Linguagem (2024.1)
+# Linguagem
 
 TBD.
