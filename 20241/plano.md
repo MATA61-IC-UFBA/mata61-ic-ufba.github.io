@@ -6,10 +6,13 @@
 ## Plano de Aulas
 
 | Dia | Data | Assunto | Atividade 
-|   -   | 11/3 | -
-| 1 (P) | 13/3| Apresentação da disciplina |
-| 2 (T) | 18/3 | Conceitos básicos de compiladores | Quiz 1
-| 3 (P) | 20/3 | [Conceitos básicos de análise léxica](https://www3.nd.edu/~dthain/compilerbook/chapter3.pdf); Expressões regulares (ER) | Quiz 2
+| - | 11/3 | -
+| - | 13/3| -
+| 1 (P) | 18/3 | Apresentação da disciplina; Introdução a Compiladores |
+| 2 (T) | 20/3 | [Conceitos básicos de análise léxica](https://www3.nd.edu/~dthain/compilerbook/chapter3.pdf) |
+
+<!--
+| 3 (P) | ; Expressões regulares (ER) | Quiz 2
 | 4   | 28/8 | Autômatos finitos (AF); Transformação de ERs para AFs | Quiz 3
 | 5 (P) | 30/8 | Geração de analisadores léxicos; Flex | Exercício 1 - Aquecimento com Flex
 | 6 (T) | 04/9 | Especificação de T1 | Especificação de B-Lite (Aspectos léxicos)
@@ -30,3 +33,5 @@
 | 21  | 25/10 | Análise Semântica | 
 | 22  | 30/10 | Análise Semântica | 
 | 23  | 01/11 | Análise Semântica | 
+
+-->
