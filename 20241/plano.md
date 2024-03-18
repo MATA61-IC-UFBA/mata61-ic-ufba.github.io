@@ -1,10 +1,11 @@
+## Plano de Aulas 
 
 - SEG (P), 16:40h
 - QUA (T), 16:40h
 
 | Dia | Data | Assunto | Atividade 
-| - | 11/3 | -
-| - | 13/3| -
+| - | 11/3 | - |
+| - | 13/3| - |
 | 1 (P) | 18/3 | Apresentação da disciplina; Introdução a Compiladores |
 | 2 (T) | 20/3 | [Conceitos básicos de análise léxica](https://www3.nd.edu/~dthain/compilerbook/chapter3.pdf) |
 
