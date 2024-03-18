@@ -1,4 +1,4 @@
-# 2024.1 - Avaliação
+# Avaliação
 
 ## Atividades
 
