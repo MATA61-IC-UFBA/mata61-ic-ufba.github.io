@@ -1,8 +1,9 @@
+## Plano de Aulas
 
 - SEG (P), 16:40h - IC
 - QUA (T), 16:40h - PAF 1, sala 201
 
-## Plano de Aulas 
+### Atividades
 
 | Dia | Data | Assunto | Atividade |
 |  -  | 11/3 | - | |
