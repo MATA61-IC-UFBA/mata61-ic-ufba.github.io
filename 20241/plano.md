@@ -1,19 +1,18 @@
 ## Plano de Aulas 
 
-- SEG (P), 16:40h
-- QUA (T), 16:40h
+- SEG (P), 16:40h - IC
+- QUA (T), 16:40h - PAF 1, sala 201
 
-| Dia | Data | Assunto | Atividade 
-| - | 11/3 | - |
-| - | 13/3| - |
-| 1 (P) | 18/3 | Apresentação da disciplina; Introdução a Compiladores |
-| 2 (T) | 20/3 | [Conceitos básicos de análise léxica](https://www3.nd.edu/~dthain/compilerbook/chapter3.pdf) |
-
+| Dia | Data | Assunto | Atividade |
+| - | 11/3 | - ||
+| - | 13/3| - ||
+| 1 (P) | 18/3 | Apresentação da disciplina; Introdução a Compiladores ||
+| 2 (T) | 20/3 | Inauguração do Centro Tomorrow ||
+| 3 (P) | 25/3 | [Conceitos básicos de análise léxica](https://www3.nd.edu/~dthain/compilerbook/chapter3.pdf) ||
+| 4 (T) | 27/3 | Expressões regulares (ER) e Autômatos Finitos ||
+| 5 (P) | 01/4 | Geração de analisadores léxicos; Flex | Exercício 1 - Aquecimento com Flex ||
+| 6 (T) | 03/4 | Especificação de T1 | Especificação de aspectos léxicos de L |
 <!--
-| 3 (P) | ; Expressões regulares (ER) | Quiz 2
-| 4   | 28/8 | Autômatos finitos (AF); Transformação de ERs para AFs | Quiz 3
-| 5 (P) | 30/8 | Geração de analisadores léxicos; Flex | Exercício 1 - Aquecimento com Flex
-| 6 (T) | 04/9 | Especificação de T1 | Especificação de B-Lite (Aspectos léxicos)
 | 7   | 06/9 | [Conceitos básicos de análise sintática](https://www3.nd.edu/~dthain/compilerbook/chapter4.pdf) | Quiz 4
 | 8 (P) | 11/9 | Bison e integração com Flex | Exercício 2 - Aquecimento com Bison
 | 9   | 13/9 | Análise sintática descendente | Exercício 3
