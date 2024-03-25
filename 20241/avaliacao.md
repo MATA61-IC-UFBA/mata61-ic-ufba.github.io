@@ -1,5 +1,7 @@
 
-## Atividades
+## Avaliação
+
+### Atividades
 
 * Trabalho Prático
 Projeto e implementação de um compilador para uma linguagem simples e de alto nível.
@@ -21,14 +23,14 @@ Projeto e implementação de um compilador para uma linguagem simples e de alto 
 * Mini-teste 1 (análise léxica, análise sintática)
 * Mini-teste 2 (análise semântica, geração de código)
 
-## Pesos
+### Pesos
 
 * Trabalho prático de implementação de um compilador (50% da nota final)
 * Exercícios práticos (20% da nota final)
 * Mini-teste 1 (15% da nota final)
 * Mini-teste 2 (15% da nota final)
 
-## Equipes
+### Equipes
 
 A partir do trabalho T3, os trabalhos serão desenvolvidos em equipe, 
 com número máximo de cinco (5) participantes por equipe.
