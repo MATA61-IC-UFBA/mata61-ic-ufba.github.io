@@ -13,9 +13,11 @@ Plano de Aulas para o semestre 2024.1.
 | 1 (P) | 18/3 | Apresentação da disciplina; Introdução a Compiladores ||
 | 2 (T) | 20/3 | Inauguração do Centro Tomorrow ||
 | 3 (P) | 25/3 | [Conceitos básicos de análise léxica](https://www3.nd.edu/~dthain/compilerbook/chapter3.pdf) ||
-| 4 (T) | 27/3 | Expressões regulares (ER) e Autômatos Finitos ||
-| 5 (P) | 01/4 | Geração de analisadores léxicos; Flex | Exercício 1 - Aquecimento com Flex ||
-| 6 (T) | 03/4 | Especificação de T1 | Especificação de aspectos léxicos de L |
+| 4 (T) | 27/3 | Inauguração do Centro Tomorrow ||
+| 5 (P) | 01/4 | Não houve aula ||
+| 6 (T) | 03/4 | Paralisação nacional de docentes de universidades federais ||
+| 7 (P) | 08/4 | Expressões regulares (ER) e Autômatos Finitos ||
+| 8 (P) | 10/4 | Geração de analisadores léxicos; Flex | Exercício 1 - Aquecimento com Flex |
 
 <!--
 | 7   | 06/9 | [Conceitos básicos de análise sintática](https://www3.nd.edu/~dthain/compilerbook/chapter4.pdf) | Quiz 4
