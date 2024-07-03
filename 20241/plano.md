@@ -18,7 +18,11 @@ Plano de Aulas para o semestre 2024.1.
 | 6 (T) | 03/4 | Paralisação nacional de docentes de universidades federais ||
 | 7 (P) | 08/4 | Expressões regulares (ER) e Autômatos Finitos ||
 | 8 (P) | 10/4 | Geração de analisadores léxicos; Flex | Exercício 1 - Aquecimento com Flex |
-
+| 9 (P) | 15/4 | Afastamento da docente para o ICSE 2024 |
+|10 (P) | 15/4 | Afastamento da docente para o ICSE 2024 |
+|       | 02/5 | Greve nacional de docentes de universidades federais: 02/5 a 03/7/23 ||
+|11 (T) | 08/7 | Revisão de conceitos || 
+|12 (P) | 10/7 | Revisão de conceitos || 
 <!--
 | 7   | 06/9 | [Conceitos básicos de análise sintática](https://www3.nd.edu/~dthain/compilerbook/chapter4.pdf) | Quiz 4
 | 8 (P) | 11/9 | Bison e integração com Flex | Exercício 2 - Aquecimento com Bison
