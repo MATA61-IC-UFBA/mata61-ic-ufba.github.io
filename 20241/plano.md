@@ -7,9 +7,9 @@ Plano de Aulas para o semestre 2024.1.
 
 ### Atividades
 
-| Dia | Data | Assunto | Atividade |
-|  -  | 11/3 | - | |
-|  -  | 13/3 | - | |
+| Dia   | Data | Assunto | Atividade |
+|  -    | 11/3 | -       | |
+|   -   | 13/3 | -       | |
 | 1 (P) | 18/3 | Apresentação da disciplina; Introdução a Compiladores ||
 | 2 (T) | 20/3 | Inauguração do Centro Tomorrow ||
 | 3 (P) | 25/3 | [Conceitos básicos de análise léxica](https://www3.nd.edu/~dthain/compilerbook/chapter3.pdf) ||
@@ -18,11 +18,13 @@ Plano de Aulas para o semestre 2024.1.
 | 6 (T) | 03/4 | Paralisação nacional de docentes de universidades federais ||
 | 7 (P) | 08/4 | Expressões regulares (ER) e Autômatos Finitos ||
 | 8 (P) | 10/4 | Geração de analisadores léxicos; Flex | Exercício 1 - Aquecimento com Flex |
-| 9 (P) | 15/4 | Afastamento da docente para o ICSE 2024 |
-|10 (P) | 15/4 | Afastamento da docente para o ICSE 2024 |
+| 9 (P) | 15/4 | Afastamento da docente para o ICSE 2024 ||
+|10 (P) | 15/4 | Afastamento da docente para o ICSE 2024 ||
 |       | 02/5 | Greve nacional de docentes de universidades federais: 02/5 a 03/7/23 ||
-|11 (T) | 08/7 | Revisão de conceitos || 
-|12 (P) | 10/7 | Revisão de conceitos || 
+|11 (T) | 08/7 | Revisão de conceitos | Correção de E1 e E2| 
+|12 (P) | 10/7 | Revisão de conceitos | Atribuição de T1 | 
+
+
 <!--
 | 7   | 06/9 | [Conceitos básicos de análise sintática](https://www3.nd.edu/~dthain/compilerbook/chapter4.pdf) | Quiz 4
 | 8 (P) | 11/9 | Bison e integração com Flex | Exercício 2 - Aquecimento com Bison
