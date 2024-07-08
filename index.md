@@ -2,7 +2,7 @@
 
   * [Plano de Aulas](./20241/plano.md)
   * [Avaliação](./20241/avaliacao.md)
-  * Linguagem
+  * [Linguagem](./20241/linguagem.md)
 
 ## Ementa
 
