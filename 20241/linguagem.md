@@ -1,7 +1,8 @@
-## Linguagem
+## Linguagem de Trabalho
 
-TBD.
 
-Especificação da linguagem de programação de alto nível para a qual um compilador será construído em 2024.1.
+Especificação da linguagem de programação de alto nível para a qual um compilador será construído ao longo do semestre.
+
+* 2024.1 - [compL](../..//mata61-trabalhos/compL)
 
 
