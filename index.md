@@ -1,9 +1,9 @@
-[Calendário Acadêmico - 2024.1](https://supac.ufba.br/sites/supac.ufba.br/files/calendario_academico_2024.1_e2024.2_versao_11_03_2024.pdf)
+[Calendário Acadêmico - 2025.1](https://supac.ufba.br/sites/supac.ufba.br/files/calendario_academico_25.1_v._09_12_0.pdf)
 
 <!--
-  * [Plano de Aulas](./20241/plano.md)
-  * [Avaliação](./20241/avaliacao.md)
-  * [Linguagem](./20241/linguagem.md)
+  * [Plano de Aulas](./20251/plano.md)
+  * [Avaliação](./20251/avaliacao.md)
+  * [Linguagem](./20251/linguagem.md)
 -->
 
 ## Ementa
@@ -37,7 +37,7 @@ Análise e Síntese. Análise léxica, sintática e semântica. Geração de có
 
 ## Material de Apoio
 
-- Tutorial: Git & GitHub Basics (no GitHub); 
+- Tutorial: Git & GitHub Basics (no GitHub)
 - Tutorial Git-it: https://github.com/jlord/git-it-electron/releases
 
 ## Bibliografia

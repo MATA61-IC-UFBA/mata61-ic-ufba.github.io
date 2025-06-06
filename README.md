@@ -1,7 +1,7 @@
 
 # Semestre Atual
 
-   * [2024.1](./index.md)
+   * [2025.1](./index.md)
 
 ----
   See [LICENSE](LICENSE) for more information.
