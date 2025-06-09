@@ -1,4 +1,5 @@
-[Calendário Acadêmico - 2025.1](https://supac.ufba.br/sites/supac.ufba.br/files/calendario_academico_25.1_v._09_12_0.pdf)
+
+- [Calendário Acadêmico - 2025.1](https://supac.ufba.br/sites/supac.ufba.br/files/calendario_academico_25.1_v._09_12_0.pdf)
 
 <!--
   * [Plano de Aulas](./20251/plano.md)
