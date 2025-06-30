@@ -1,15 +1,17 @@
+## Trabalhos
 
+### Especificação de LF
 
 Especificação da linguagem de programação de alto nível para a qual um compilador será construído ao longo do semestre.
 
-### Visão geral
+#### Visão geral
 
-### Aspectos léxicos
+#### Aspectos léxicos
 
-### Aspectos sintáticos
+#### Aspectos sintáticos
 
-### Aspectos semânticos
+#### Aspectos semânticos
 
-### Aspectos pragmáticos
+#### Aspectos pragmáticos
 
 
