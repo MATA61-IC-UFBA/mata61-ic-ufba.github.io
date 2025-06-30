@@ -1,9 +1,9 @@
 
 - [Calendário Acadêmico - 2025.1](https://supac.ufba.br/sites/supac.ufba.br/files/calendario_academico_25.1_v._09_12_0.pdf)
 
-  * [Atividades](./20251/atividade.md)
-  * [Avaliações](./20251/avaliacao.md)
-  * [Trabalhos](./20251/trabalho.md)
+  * [Atividades](./20251/atividades.md)
+  * [Avaliações](./20251/avaliacoes.md)
+  * [Trabalhos](./20251/trabalhos.md)
 
 ## Ementa
 

@@ -2,3 +2,12 @@ title: MATA61 - Compiladores
 description: This website hosts the MATA61 course.
 theme: minima
 
+# Configuracoes padrao para posts
+defaults:
+  -
+    scope:
+      path: ""
+      type: "slides"
+    values:
+      layout: "revealjs"
+
