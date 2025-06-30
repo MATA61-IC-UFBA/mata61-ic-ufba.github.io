@@ -1,9 +1,9 @@
 
 - [Calendário Acadêmico - 2025.1](https://supac.ufba.br/sites/supac.ufba.br/files/calendario_academico_25.1_v._09_12_0.pdf)
 
-  * [Plano de Aulas](./20251/atividade.md)
+  * [Atividades](./20251/atividade.md)
   * [Avaliações](./20251/avaliacao.md)
-  * [Linguagem](./20251/trabalho.md)
+  * [Trabalhos](./20251/trabalho.md)
 
 ## Ementa
 
@@ -24,15 +24,24 @@ Análise e Síntese. Análise léxica, sintática e semântica. Geração de có
    + Especificação e reconhecimento de linguagens livres de contexto; 
    + Análise LL e LR;
    + Implementação e geração de analisadores sintáticos;
-   + Árvores sintáticas abstratas.
+   + Tradução dirigida por sintaxe.
 4. Análise semântica: 
    + Conceitos básicos; Sistemas de tipos;
    + Implementação de verificação de tipos;
    + Tabela de símbolos e resolução de nomes.
-5. Representação intermediária 
-6. Ambientes de execução, organização de memória
+5. Representação intermediária:
+   + Árvore sintática abstrata;
+   + Grafo acíclico direcionado; 
+   + Grafo de fluxo de controle;
+   + RI de três endereços.
+6. Organização de memória:
+   + Pilha;
+   + Heap.
 7. Geração de código 
-8. Otimização de código
+8. Otimização de código:
+   + Otimização local;
+   + Otimização global;
+   + Otimização interprocedimental. 
 
 ## Material de Apoio
 
