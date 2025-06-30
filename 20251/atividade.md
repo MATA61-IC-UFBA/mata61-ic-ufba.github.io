@@ -1,9 +1,7 @@
-## Plano de Aulas
 
-Semestre: 
-
-- SEG (P), 16:40h - Definir local
-- QUA (T), 16:40h - Definir local
+- Semestre: 
+  - SEG (P), 16:40h - Definir local
+  - QUA (T), 16:40h - Definir local
 
 ### Atividades
 

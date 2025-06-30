@@ -7,6 +7,7 @@
   * [Linguagem](./20251/linguagem.md)
 -->
 
+
 ## Ementa
 
 Análise e Síntese. Análise léxica, sintática e semântica. Geração de código intermediário.  Otimização de código intermediário. Geração e otimização de código objeto. 
