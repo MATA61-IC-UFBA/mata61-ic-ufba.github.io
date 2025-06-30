@@ -1,9 +1,8 @@
+## Atividades
 
 - Semestre: 
   - SEG (P), 16:40h - Definir local
   - QUA (T), 16:40h - Definir local
-
-### Atividades
 
 | Dia   | Data | Assunto | Atividade |
 | 1 (P) |  | Apresentação da disciplina; Introdução a Compiladores | Quiz 1 |
