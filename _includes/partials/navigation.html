@@ -1,0 +1,28 @@
+<!--========================================
+=            Navigation Section            =
+=========================================-->
+<nav class="navbar main-nav border-less fixed-top navbar-expand-lg p-0">
+  <div class="container-fluid p-0">
+    <!-- logo -->
+    <a class="p-2" href="index.html">
+      <img src="{{ site.baseurl }}/{{ page.logo }}" alt="logo">
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+      aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="fa fa-bars"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav mx-auto">
+        {%- for item in layout.menu -%}
+        <li class="nav-item">
+          <a class="nav-link" href="{{ site.baseurl }}{{ item.url }}">{{ item.name }}
+          {% if forloop.last == false %}<span>/</span>{%endif%}
+          </a>
+        </li>
+        {%- endfor -%}
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<!--====  End of Navigation Section  ====-->

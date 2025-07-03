@@ -1,3 +1,12 @@
+---
+layout: 20251/event
+permalink: /20251/atividades
+logo: assets/images/logo-ic.png
+title: Atividades
+kickoff:
+    year: 20251
+---
+
 ## Atividades
 
 Semestre: 

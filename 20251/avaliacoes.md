@@ -1,3 +1,12 @@
+---
+layout: 20251/event
+permalink: /20251/avaliacoes
+logo: assets/images/logo-ic.png
+title: Avaliações
+kickoff:
+    year: 20251
+---
+
 ## Avaliação
 
 Descrição dos métodos de avaliação do semestre.

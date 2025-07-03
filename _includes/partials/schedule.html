@@ -1,0 +1,158 @@
+<!--==============================
+=           Schedule            =
+===============================-->
+
+<section class="section schedule" id="schedule">
+	<div class="container">
+		<div class="row">
+			<div class="col-12">
+				<div class="section-title">
+					<h3>Programação do Evento</h3>
+					<p>{{ page.schedule_preamble | replace: 'N_TALKS', page.program.talks.size | replace: 'N_SESSIONS', page.program.sessions.size | replace: 'N_DAYS', page.program.days.size }}</p>
+				</div>
+			</div>
+		</div>
+		{% assign n_days = page.program.days | size -%}
+		<div class="row">
+			<div class="col-12">
+				<div class="schedule-tab">
+					<ul class="nav nav-pills text-center">
+						{%- for day in page.program.days -%}
+						<li class="nav-item">
+							<a class="nav-link {% if forloop.index == 1 %}active{% endif %}" href="#{{ day.name | slugify }}" data-toggle="pill">
+								{{ day.name }}
+								<span>{{ day.date }}</span>
+							</a>
+						</li>
+						{%- endfor -%}
+					</ul>
+				</div>
+				<div class="schedule-contents bg-schedule">
+					<div class="tab-content" id="pills-tabContent">
+
+						{% for day in page.program.days %}
+						{% assign n_rooms = day.rooms | size -%}
+					  <div class="tab-pane fade show {% if forloop.index == 1 %}active{% endif %} schedule-item" id="{{ day.name | slugify }}">
+
+							<div class="schedule-grid" style="--rooms: 2">
+								<div class="schedule-header">
+								<span class="col-time"></span>
+								{%- for room in day.rooms -%}
+									<span class="col-room">{{ room.name }}</span>
+								{%- endfor -%}
+								</div>
+
+								{%- for slot in day.slots -%} 
+										<span class="time">
+											{%- assign firstchar = slot | slice: 0, 1 -%}
+											{%- if firstchar != 'S' -%}
+											{{ slot }}
+											{%- endif -%}
+										</span>
+										{%- assign break_key = day.name | append: ', ' | append: slot -%}
+										{%- assign break_ = page.program.breaks[break_key] -%}
+										{%- if break_ -%}
+											<span style="grid-column: 2 / span {{ n_rooms }};" class="all-rooms">{{ break_.title }}</span>
+										{%- else -%}
+											{%- for room in day.rooms -%}
+												{%- assign talk_key = day.name | append: ', ' | append: room.name | append: ', ' | append: slot -%}
+												{%- assign talk = page.program.talks[talk_key] -%}
+												{%- assign session = page.program.sessions[talk_key] -%}
+												
+												{%- if session -%}
+													{%- assign n_chairs = session.chairs | size -%}
+													<span>
+														<span>
+															{%- if session.video -%}
+															<a href="{{ session.video }}"><i class="fa fa-video-camera"></i></a>&nbsp;
+															{%- endif -%}
+															<b>{{ session.name }}</b>
+															{%- if session.chairs -%}
+															<b>. Chair{% if n_chairs > 1 %}s{% endif %}</b>: {{ session.chairs | join: ', ' }}
+															{%- endif -%}
+															{%- if session.volunteers -%}
+															<b>. Apoio</b>: {{ session.volunteers | join: ', ' }}
+															{% endif %}
+														</span>
+													</span>
+												{%- elsif talk and talk.placeholder -%}
+												{%- elsif talk -%}
+													<span class="{{ talk.topic_abbr | default: ''}}">
+														{%- capture talk_id -%}{{ day.name | append: '-' | append: room.name | append: '-' | append: slot | slugify }}{%- endcapture -%}
+														
+														<a class="two-column" href="#" style="color: black;" data-toggle="modal" data-target="#{{ talk_id }}">
+														{% if talk.presenter_photo and talk.presenter_photo != '' %}
+															<img src="photos/{{ talk.presenter_photo }}" alt="{{ talk.presenter }}" class="presenter-photo small">
+														{% endif %}
+															<span>
+																<b>{{ talk.presenter_short | default: talk.presenter }}</b> - 
+																{{ talk.title }}
+																{% if talk.remote and talk.remote != '' %}<span class="badge badge-secondary">remoto</span>{% endif %}
+															</span>
+														</a>
+
+														<!-- Modal -->
+														<div class="modal fade" id="{{ talk_id }}" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+															<div class="modal-dialog modal-lg" role="document">
+																<div class="modal-content">
+																	<div class="modal-header">
+																		<h5 class="modal-title two-column" id="exampleModalLabel">
+																			{% if talk.presenter_photo and talk.presenter_photo != '' %}
+																				<img src="photos/{{ talk.presenter_photo }}" alt="{{ talk.presenter }}" class="presenter-photo medium">
+																			{% endif %}
+																			<div>{{ talk.title }}</div>
+																		</h5>
+																		<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+																			<span aria-hidden="true">&times;</span>
+																		</button>
+																	</div>
+																	<div class="modal-body">
+																		<p><b>{{ talk.presenter }}</b>&nbsp;&nbsp;
+																			{% if talk.instagram != nil and talk.instagram != '' %}<a href="https://instagram.com/{{ talk.instagram | remove: '@' }}/"><i class="fa fa-instagram"></i></a>{% endif %}
+																			{% if talk.twitter != nil and talk.twitter != '' %}<a href="https://twitter.com/{{ talk.twitter | remove: '@' }}"><i class="fa fa-x-twitter">𝕏</i></a>{% endif %}
+																			{% if talk.linkedin != nil and talk.linkedin != '' %}<a href="{{ talk.linkedin }}"><i class="fa fa-linkedin"></i></a>{% endif %}
+																		</p>
+
+																		<p>Orientação: {{ talk.advisor }}{% if talk.coadvisor and talk.coadvisor != '' %}, {{ talk.coadvisor }} {% endif %}</p>
+																		<p>Tópico: <span class="badge badge-secondary">{{ talk.topic }}</span>
+																		{%- if talk.doi != nil and talk.doi != '' %}
+																		Slides: <a href="https://doi.org/{{ talk.doi }}"><img src="https://zenodo.org/badge/DOI/{{ talk.doi }}.svg" alt="DOI"></a>
+																		{%- endif -%}
+																		{%- if talk.video != nil and talk.video != '' %}
+																		Vídeo: <a href="{{ talk.video }}"><i class="fa fa-video-camera"></i></a>
+																		{%- endif -%}
+																		</p>
+																		<div>{{ talk.abstract }}</div>
+																		{% for tag in talk.tags %}
+																		<span class="badge badge-secondary">{{ tag }}</span>
+																		{% endfor %}
+																	</div>
+																	<div class="modal-footer">
+																		<button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+																	</div>
+																</div>
+
+															</div>													</div>
+
+													</span>
+												{%- else -%}
+													<span>&nbsp;</span>
+												{%- endif -%}
+											{%- endfor -%}
+										{%- endif -%}
+								{%- endfor -%}
+								</div>
+					  </div>
+						{% endfor %}
+
+					</div>
+					<div class="legend">{{ page.schedule_legend }}</div>
+				</div>
+				
+			</div>
+		</div>
+		<p>{{ page.schedule_footer }}</p>
+	</div>
+</section>
+
+<!--====  End of Schedule  ====-->
