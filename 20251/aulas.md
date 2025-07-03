@@ -9,7 +9,7 @@ kickoff:
 
 ### Aulas
 
-* [Aula 01](../_slides/aula01.markdown)
+* [Aula 01](https://www.dropbox.com/scl/fo/og3a96mc5s4u2jj5hifzj/AG2BV12sbtyIedn_vc8lSrs?rlkey=h7ywh2eyzhx8twb86ude5d477&st=j52n5p6x&dl=0)
 * [Aula 02](../_slides/aula02.markdown)
 * [Aula 03](../_slides/aula03.markdown)
 * [Aula 04](../_slides/aula04.markdown)
