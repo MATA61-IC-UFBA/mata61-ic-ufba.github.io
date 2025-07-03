@@ -7,10 +7,12 @@ kickoff:
     year: 20251
 ---
 
-### Semestre 2025.1
+### 2025.1
 
-  - SEG (P - Prática), 16:40h - Definir local
-  - QUA (T - Teórica), 16:40h - Definir local
+- SEG (P - Prática), 16:40h - Definir local
+- QUA (T - Teórica), 16:40h - Definir local
+
+#### Plano de Aulas
 
 | **Dia**   | **Data** | **Assunto** | **Atividade** |
 | 1 (P) |      | Apresentação da disciplina; Introdução a Compiladores | Quiz 1 |
