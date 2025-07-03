@@ -7,9 +7,8 @@ kickoff:
     year: 20251
 ---
 
-## Atividades
+### Semestre 2025.1
 
-Semestre: 
   - SEG (P - Prática), 16:40h - Definir local
   - QUA (T - Teórica), 16:40h - Definir local
 
