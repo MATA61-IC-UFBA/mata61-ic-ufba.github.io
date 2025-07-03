@@ -49,11 +49,6 @@ Análise e Síntese. Análise léxica, sintática e semântica. Geração de có
    + Otimização global;
    + Otimização interprocedimental. 
 
-## Material de Apoio
-
-- Tutorial: Git & GitHub Basics (no GitHub)
-- Tutorial Git-it: https://github.com/jlord/git-it-electron/releases
-
 ## Bibliografia
 
 #### Básica

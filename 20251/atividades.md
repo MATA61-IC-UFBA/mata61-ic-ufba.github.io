@@ -10,11 +10,11 @@ kickoff:
 ## Atividades
 
 Semestre: 
-  - SEG (P), 16:40h - Definir local
-  - QUA (T), 16:40h - Definir local
+  - SEG (P - Prática), 16:40h - Definir local
+  - QUA (T - Teórica), 16:40h - Definir local
 
-| Dia   | Data | Assunto | Atividade |
-| 1 (P) |  | Apresentação da disciplina; Introdução a Compiladores | Quiz 1 |
+| **Dia**   | **Data** | **Assunto** | **Atividade** |
+| 1 (P) |      | Apresentação da disciplina; Introdução a Compiladores | Quiz 1 |
 | 2 (T) |  | [Conceitos básicos de análise léxica](https://www3.nd.edu/~dthain/compilerbook/chapter3.pdf) | Quiz 2 |
 | 3 (P) |  | Expressões regulares (ER) e Autômatos Finitos         | Quiz 3 |
 | 4 (T) |  | Implementação de analisadores léxicos                 | Especificação de T1 |
@@ -36,15 +36,15 @@ Semestre:
 | 20 (T)|  | Sistema de Tipos                                      | Quiz 13 |
 | 21 (P)|  | Verificação de Tipos                                  | Exercício 7 - Avaliador com tipos |
 | 22 (T)|  | Semântica de linguagens de programação                | Quiz 14 |
-| 23 (P)|  | Aula Prática | |
+| 23 (P)|  | Aula Prática                                          | |
 | 24 (T)|  | Geração de RI                                         | Entrega de T4; Especificação de T5; Quiz 15 |
 | 25 (P)|  | Otimização de Código                                  | Quiz 16 |  
 | 26 (T)|  | Geração de Código                                     | Especificação de T5 |
-| 27 (P)|  | Geração de Código | |
-| 28 (T)|  | Trabalho Prático | |
-| 29 (P)|  | Trabalho Prático | |
-| 30 (T)|  | Trabalho Prático | | Entrega de T5 |
-| 31 (P)|  | Trabalho Prático | |
+| 27 (P)|  | Geração de Código                                     | |
+| 28 (T)|  | Trabalho Prático                                      | |
+| 29 (P)|  | Trabalho Prático                                      | |
+| 30 (T)|  | Trabalho Prático                                      | Entrega de T5 |
+| 31 (P)|  | Trabalho Prático                                      | |
 | 32 (T)|  | Discussão | |
 | 33 (P)|  | Discussão | |
 | 34 (T)|  | Discussão | |
