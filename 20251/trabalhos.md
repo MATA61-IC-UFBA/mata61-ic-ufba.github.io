@@ -39,7 +39,7 @@ a análise léxica deve prosseguir até o final do programa fonte.
 ## Trabalho 5 (T5)
 
 
-## Especificação de LF
+## Especificação da linguagem LF
 
 Especificação da linguagem de programação de alto nível para a qual um compilador será construído ao longo do semestre.
 

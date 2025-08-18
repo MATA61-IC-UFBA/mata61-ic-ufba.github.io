@@ -2,12 +2,10 @@
 layout: 20251/event
 permalink: /20251/atividades
 logo: assets/images/logo-ic.png
-title: Atividades
+title: Plano de Aulas
 kickoff:
     year: 20251
 ---
-
-### 2025.1
 
 - SEG (P - Prática), 16:40h - Definir local
 - QUA (T - Teórica), 16:40h - Definir local

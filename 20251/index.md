@@ -5,11 +5,7 @@ logo: assets/images/logo-ic.png
 event_initials: MATA61
 event_name: Compiladores
 ---
-
-## 2025.1
-
-- [Calendário Acadêmico - 2025.1](https://supac.ufba.br/sites/supac.ufba.br/files/calendario_academico_25.1_v._09_12_0.pdf)
-
+# Conteúdo Programático
 
 ## Ementa
 
