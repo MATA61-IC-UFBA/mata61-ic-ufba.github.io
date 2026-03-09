@@ -1,0 +1,29 @@
+<!--============================
+=            Banner            =
+=============================-->
+
+{% assign darken_ratio = page.banner_darken_ratio %}
+{% if darken_ratio == nil or darken_ratio == '' %}
+	{% assign darken_ratio = 0.0 %}
+{% endif %}
+
+<section class="banner bg-banner-one overlay" style="background: linear-gradient( rgba(0, 0, 0, {{ darken_ratio }}), rgba(0, 0, 0, {{ darken_ratio }}) ), url({{ site.baseurl}}/{{ page.banner_image }}) no-repeat;">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12">
+				<!-- Content Block -->
+				<div class="block">
+					<!-- Coundown Timer -->
+					<div class="timer"></div>
+					<h1>{{ page.event_initials }}</h1>
+					<h6>{{ page.event_name }}</h6>
+					<h6>{{ page.date_and_place }}</h6>
+					<!-- Action Button -->
+					<!-- <a href="contact.html" class="btn btn-white-md">get ticket now</a> -->
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+	
+<!--====  End of Banner  ====-->

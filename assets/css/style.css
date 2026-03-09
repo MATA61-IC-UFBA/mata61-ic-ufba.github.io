@@ -1,0 +1,109 @@
+.schedule-grid {
+  display: grid;
+  grid-template-columns: 60px repeat(var(--rooms), 1fr);
+  gap: 4px;
+  width: 100%;
+}
+.schedule-grid > span {
+  padding: 5px 10px 5px 10px;
+  display: flex;
+  align-items: center;
+}
+.schedule-grid > span.all-rooms {
+  background-color: gainsboro;
+  font-weight: bold;
+  justify-content: center;
+}
+.schedule-header {
+  display: contents;
+}
+.schedule-header > span:not(:first-child) {
+  background-color: #ff6600;
+  text-align: center;
+  font-weight: bold;
+}
+.time {
+  background-color: white;
+  text-align: right;
+  color: #666;
+}
+
+
+.presenter-photo.small {
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+}
+
+.presenter-photo.medium {
+  border-radius: 50%;
+  width: 70px;
+  height: 70px;
+}
+
+.two-column {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+}
+
+@media screen and (max-width: 600px) {
+  .two-column {
+    flex-direction: column;
+  }
+}
+
+
+.legend {
+  background-color: white;
+  padding: 20px;
+}
+.legend-item {
+  white-space: nowrap;
+}
+
+a {
+  color: #ff6600;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  padding-top: 0.5em;
+}
+
+/* Topics */
+
+.square {
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  margin-right: 5px;
+}
+
+.cvis {
+  background-color: #dfbab1;
+}
+.es {
+  background-color: #d8d2e7;
+}
+.icot {
+  background-color: #f8e6d0;
+}
+.ihcedu {
+  background-color: #fdf2d0;
+}
+.rc {
+  background-color: #dce9d5;
+}
+.scmisc {
+  background-color: #d3dfe2;
+}
+.sd {
+  background-color: #f0b8a1;
+}
+.sibw {
+  background-color: #d3e1f1;
+}
+.ct {
+  background-color: #b6c9ad;
+}

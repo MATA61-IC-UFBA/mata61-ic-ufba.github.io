@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Custom CSS and script
+  ================================================== -->
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
+  <script src="{{ site.baseurl }}/assets/js/script.js"></script>
+
+  <!-- Basic Page Needs
+  ================================================== -->
+  <meta charset="utf-8">
+  <title>{{ page.title | default: site.title }}</title>
+
+  <!-- Mobile Specific Metas
+  ================================================== -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="description" content="{{ page.title | default: site.title }}">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
+  <meta name="author" content="IC-UFBA">
+  <meta name="generator" content="Themefisher Eventre HTML Template v1.0">
+  
+  <!-- PLUGINS CSS STYLE -->
+  <!-- Bootstrap -->
+  <link href="{{ site.baseurl }}/theme/plugins/bootstrap/bootstrap.min.css" rel="stylesheet">
+  <!-- Font Awesome -->
+  <link href="{{ site.baseurl }}/theme/plugins/font-awsome/css/font-awesome.min.css" rel="stylesheet">
+  <!-- Magnific Popup -->
+  <link href="{{ site.baseurl }}/theme/plugins/magnific-popup/magnific-popup.css" rel="stylesheet">
+  <!-- Slick Carousel -->
+  <link href="{{ site.baseurl }}/theme/plugins/slick/slick.css" rel="stylesheet">
+  <link href="{{ site.baseurl }}/theme/plugins/slick/slick-theme.css" rel="stylesheet">
+  <!-- CUSTOM CSS -->
+  <link href="{{ site.baseurl }}/theme/css/style.css" rel="stylesheet">
+
+  <!-- FAVICON -->
+  <link href="{{ site.baseurl }}/theme/images/favicon.png" rel="shortcut icon">
+
+</head>
+
+<body class="body-wrapper">
+
+  {{ content }}
+
+  <!-- JAVASCRIPTS -->
+  <!-- jQuery -->
+  <script src="{{ site.baseurl }}/theme/plugins/jquery/jquery.min.js"></script>
+  <!-- Bootstrap 4 -->
+  <script src="{{ site.baseurl }}/theme/plugins/bootstrap/bootstrap.min.js"></script>
+  <!-- Shuffle -->
+  <script src="{{ site.baseurl }}/theme/plugins/shuffle/shuffle.min.js"></script>
+  <!-- Magnific Popup -->
+  <script src="{{ site.baseurl }}/theme/plugins/magnific-popup/jquery.magnific-popup.min.js"></script>
+  <!-- Slick Carousel -->
+  <script src="{{ site.baseurl }}/theme/plugins/slick/slick.min.js"></script>
+  <!-- SyoTimer -->
+  <script src="{{ site.baseurl }}/theme/plugins/syotimer/jquery.syotimer.min.js"></script>
+  <!-- Google Mapl -->
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAUT3n08zL1lwSYiEjfIEWFbcbCwSsXMSM"></script>
+  <script src="{{ site.baseurl }}/theme/plugins/google-map/gmap.js"></script>
+  <!-- Custom Script -->
+  <script src="{{ site.baseurl }}/theme/js/script.js"></script>
+
+  <script>
+    // -----------------------------
+    //  Count Down JS
+    // -----------------------------
+    $('.timer').syotimer({
+      year: {{ page.kickoff.year }},
+      month: {{ page.kickoff.month }},
+      day: {{ page.kickoff.day }},
+      hour: {{ page.kickoff.hour }},
+      minute: {{ page.kickoff.minute }},
+      lang: 'por'
+    });
+  </script>
+</body>
+</html>
