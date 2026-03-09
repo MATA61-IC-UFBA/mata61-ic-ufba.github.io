@@ -2,8 +2,8 @@
 
 Semestre: 
 
-- SEG (P), 16:40h - Definir local
-- QUA (T), 16:40h - Definir local
+- SEG (P), 16:40h - Smart Class II
+- QUA (T), 16:40h - PAF1 - 210
 
 ### Atividades
 
