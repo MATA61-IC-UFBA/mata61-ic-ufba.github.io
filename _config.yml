@@ -21,7 +21,7 @@
 title: MATA61 - Compiladores
 description: This website hosts the MATA61 course.
 email: flach@ufba.br
-description: seed.br portal
+description: mata61 portal
 baseurl: ""
 url: ""
 
@@ -43,8 +43,8 @@ kramdown:
 # their entries' file path in the `include:` list.
 #
 # exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
+   - .sass-cache/
+   - .jekyll-cache/
 #   - gemfiles/
 #   - Gemfile
 #   - Gemfile.lock
