@@ -7,16 +7,16 @@ kickoff:
     year: 20261
 ---
 
-## Plano de Aulas
+# Plano de Aulas
 
 Semestre: 2026.1
 
 - SEG (P), 16:40h - Smart Class II
 - QUA (T), 16:40h - PAF1 - 210
 
-### Atividades
+## Atividades
 
-| Dia   | Data | Assunto                                               | Atividade | Entrega |
+| *Dia* | *Data* | *Assunto*                                             | *Atividade* | i*Entrega* |
 | 1 (P) | 09/3 | Apresentação da disciplina; Introdução a Compiladores |           |         |
 | 2 (T) | 11/3 | [Conceitos básicos de análise léxica](https://www3.nd.edu/~dthain/compilerbook/chapter3.pdf) | Leitura do Cap. 3 | | 
 |       |      | Revisão: Expressões regulares (ER) e Autômatos Finitos |          | | 
@@ -34,7 +34,7 @@ Semestre: 2026.1
 | 14 (T)| 22/4 | Tradução dirigida por sintaxe | Entrega de T2; Apresentação da especificação de T3 | |
 
 
-| Dia   | Data | Assunto                                               | Atividade | Entrega |
+| *Dia* | *Data* | *Assunto*                                             | *Atividade* | i*Entrega* |
 | 15 (P)|  | Bison III - Ações semânticas | Exercício 4 - Calculadora: Interpretador | |
 | 16 (T)|  | Análise Semântica | | |
 | 17 (P)|  | Bison IV | Exercício 5 - Calculadora: Avaliador | | 
@@ -49,13 +49,13 @@ Semestre: 2026.1
 | 26 (T)|  | Ambientes de Referência | Entrega de T4; Apresentação da especificação de T5; Quiz 3 | |
 
 
-| Dia   | Data | Assunto                                               | Atividade | Entrega |
-| 27 (P)|      | Linguagens de Montagem | Exercício 7 - Calculadora executável | | 
-| 28 (T)|  | Geração de Código | Apresentação da especificação de T5 | |
-| 29 (P)|  | Aula Prática - T5 | | |
-| 30 (T)|  | Otimização de Código | | |
-| 31 (P)|  | Aula Prática - T5 | | |
-| 32 (T)|  | Fechamento | Entrega de T5 | |
-| 33 (P)|  | Discussão | | |
-| 34 (T)|  | Discussão | | |
+| *Dia* | *Data* | *Assunto*                                             | *Atividade* | i*Entrega* |
+| 27 (P)|   | Linguagens de Montagem | Exercício 7 - Calculadora executável | | 
+| 28 (T)|   | Geração de Código | Apresentação da especificação de T5 | |
+| 29 (P)|   | Aula Prática - T5 | | |
+| 30 (T)|   | Otimização de Código | | |
+| 31 (P)|   | Aula Prática - T5 | | |
+| 32 (T)|   | Fechamento | Entrega de T5 | |
+| 33 (P)|   | Discussão | | |
+| 34 (T)|   | Discussão | | |
 
