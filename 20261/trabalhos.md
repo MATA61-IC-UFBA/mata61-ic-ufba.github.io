@@ -2,22 +2,24 @@
 layout: 20261/event
 permalink: /20261/trabalhos
 logo: assets/images/logo-ic.png
-title: Trabalhos
+title: Construção de um compilador
 kickoff:
     year: 20261
 ---
 
-# Projeto e Implementação de um Compilador.
+# Projeto e Implementação de um Compilador
 
-## Trabalho 1 (T1): Análise Léxica
+## Especificação dos trabalhos
 
-## Trabalho 2 (T2): Análise Sintática
+### Trabalho 1 (T1): Análise léxica
 
-## Trabalho 3 (T3): 
+### Trabalho 2 (T2): Análise sintática
 
-## Trabalho 4 (T4)
+### Trabalho 3 (T3): Tradução dirigida por sintaxe
 
-## Trabalho 5 (T5)
+### Trabalho 4 (T4): Análise semântica
+
+### Trabalho 5 (T5): Geração de código
 
 
 ## Especificação da linguagem LF

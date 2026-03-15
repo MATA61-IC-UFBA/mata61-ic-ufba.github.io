@@ -1,6 +1,6 @@
 ---
 layout: 20261/event
-permalink: /20251/avaliacoes
+permalink: /20261/avaliacoes
 logo: assets/images/logo-ic.png
 title: Avaliações
 kickoff:
