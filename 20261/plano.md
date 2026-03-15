@@ -1,3 +1,12 @@
+---
+layout: 20261/event
+permalink: /20261/plano
+logo: assets/images/logo-ic.png
+title: Plano de Aulas
+kickoff:
+    year: 20261
+---
+
 ## Plano de Aulas
 
 Semestre: 2026.1

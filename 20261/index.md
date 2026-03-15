@@ -1,15 +1,11 @@
-<!--
-- [Calendário Acadêmico - 2025.1](https://supac.ufba.br/sites/supac.ufba.br/files/calendario_academico_25.1_v._09_12_0.pdf)
-  * [Plano de Aulas](./20261/plano.md)
-  * [Avaliação](./20261/avaliacao.md)
-  * [Linguagem](./20261/linguagem.md)
--->
 ---
 layout: 20261/event
-title: MATA61 - Compiladores
 logo: assets/images/logo-ic.png
+title: MATA61 - Compiladores
 event_initials: MATA61
 event_name: Compiladores
+kickoff:
+    year: 20261
 ---
 
 # Conteúdo Programático
