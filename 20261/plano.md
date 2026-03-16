@@ -27,13 +27,13 @@ kickoff:
 | 5 (P)  |  23/4  | Implementação de T1 | | |
 | 6 (T)  |  25/3  | Análise sintática descendente. [Análise LL(1)](https://www.dropbox.com/scl/fi/m0ea8mzhtj20dxnw934o8/ch04-2ed-Parsing-Thain-Compiler-Book-2-top-down_LL.pdf?rlkey=4t59393k5zp7ckpaflvzyftlx&st=9wi6wlg6&dl=0) | | |
 | 7 (P)  |  30/3  | Bison I | Exercício 2 - Calculadora: integração com Flex | Entrega de T1 |
-| 8 (T)  |  01/4  | Análise sintática ascendente. [Análise LR](https://www.dropbox.com/scl/fi/9l9xq909fqs7qh2r2nds6/ch04-2ed-Parsing-Thain-Compiler-Book-3-bottom-up_LR.pdf?rlkey=ith3jam7mob5weec5l3ncxe0a&st=b9u6vag0&dl=0) | | |
-| 9 (P)  |  06/4  | [Bison II](https://www.dropbox.com/scl/fi/61dprj5q710uaw9p1kvi0/ch05-2ed-Syntax_in_Practice-Thain-Compiler-Book-bison.pdf?rlkey=qjqgljs0t0clnf7f86nnpkbws&st=a86ugdlk&dl=0) | Exercício 3 - Calculadora: Validador; Apresentação da especificação de T2 | | 
+| 8 (T)  |  01/4  | Análise sintática ascendente. [Análise LR](https://www.dropbox.com/scl/fi/9l9xq909fqs7qh2r2nds6/ch04-2ed-Parsing-Thain-Compiler-Book-3-bottom-up_LR.pdf?rlkey=ith3jam7mob5weec5l3ncxe0a&st=b9u6vag0&dl=0) | Apresentação da especificação de T2 | |
+| 9 (P)  |  06/4  | [Bison II](https://www.dropbox.com/scl/fi/61dprj5q710uaw9p1kvi0/ch05-2ed-Syntax_in_Practice-Thain-Compiler-Book-bison.pdf?rlkey=qjqgljs0t0clnf7f86nnpkbws&st=a86ugdlk&dl=0) | Exercício 3 - Calculadora: Validador | | 
 | 10 (T) |  08/4  | [Árvore Sintática Abstrata](https://www.dropbox.com/scl/fi/m9min59utff46u1tkinmj/ch06-2ed-AST-Thain-CompilerBook.pdf?rlkey=fgc9g79auq0jdvf3fanps8fh8&st=a50bivo3&dl=0) | | |
 | 11 (P) |  13/4  | Bison III - Ações semânticas | Exercício 4 - Calculadora: Interpretador | |
 | 12 (T) |  15/4  | Implementação de T2 | | |
 | 13 (P) |  20/4  | Prova 1 | | |
-| 14 (T) |  22/4  | Apresentação da especificação de T3 | | Entrega de T2 |
+| 14 (T) |  22/4  |  | Apresentação da especificação de T3 | Entrega de T2 |
 
 ### Parte II
 
