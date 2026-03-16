@@ -18,7 +18,7 @@ kickoff:
 
 ### Parte I
 
-| *Dia*  | *Data* | *Assunto*                                             | *Atividade* | *Entrega* |
+| **Dia**  | **Data** | **Assunto**                                             | **Atividade** | **Entrega** |
 | 1 (P)  |  09/3  | Apresentação da disciplina; Introdução a Compiladores |           |         |
 | 2 (T)  |  11/3  | [Conceitos básicos de análise léxica](https://www3.nd.edu/~dthain/compilerbook/chapter3.pdf) | Leitura do Cap. 3 | | 
 |        |        | Revisão: Expressões regulares (ER) e Autômatos Finitos |          | | 
@@ -37,7 +37,7 @@ kickoff:
 
 ### Parte II
 
-| *Dia*  | *Data* | *Assunto*                                             | *Atividade* | *Entrega* |
+| **Dia**  | **Data** | **Assunto**                                             | **Atividade** | **Entrega** |
 | 15 (P) |  27/4  | Bison III - Ações semânticas | Exercício 4 - Calculadora: Interpretador | |
 | 16 (T) |  29/4  | Análise Semântica | | |
 | 17 (P) |  04/5  | Bison IV | Exercício 5 - Calculadora: Avaliador | | 
@@ -53,7 +53,7 @@ kickoff:
 
 ### Parte III
 
-| *Dia* | *Data* | *Assunto*                                             | *Atividade* | *Entrega* |
+| **Dia**  | **Data** | **Assunto**                                             | **Atividade** | **Entrega** |
 | 27 (P)|   | Linguagens de Montagem | Exercício 7 - Calculadora executável | | 
 | 28 (T)|   | Geração de Código | Apresentação da especificação de T5 | |
 | 29 (P)|   | Aula Prática - T5 | | |
