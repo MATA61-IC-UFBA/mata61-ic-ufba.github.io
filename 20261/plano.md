@@ -20,7 +20,7 @@ kickoff:
 
 | **Dia**  | **Data** | **Assunto**                                             | **Atividade** | **Entrega** |
 | 1 (P)  |  09/3  | Apresentação da disciplina; Introdução a Compiladores |           |         |
-| 2 (T)  |  11/3  | [Conceitos básicos de análise léxica](https://www3.nd.edu/~dthain/compilerbook/chapter3.pdf) | Leitura do Cap. 3 | | 
+| 2 (T)  |  11/3  | [Conceitos básicos de análise léxica](https://www.dropbox.com/scl/fi/fwa19tjod44apseln3iyb/ch03-2ed-Scanning-Thain-Compiler-Book.pdf?rlkey=bpwxzp7g1zxpsqbmwtlui40ow&st=wlp28u3v&dl=0) | Leitura do Cap. 3 | | 
 |        |        | Revisão: Expressões regulares (ER) e Autômatos Finitos |          | | 
 | 3 (P)  |  16/3  | Implementação de analisadores léxicos. Flex           | Exercício 1 - Calculadora: aspectos léxicos | |
 | 4 (T)  |  18/3  | [Conceitos básicos de análise sintática](https://www3.nd.edu/~dthain/compilerbook/chapter4.pdf) | Apresentação da especificação de T1 | |
