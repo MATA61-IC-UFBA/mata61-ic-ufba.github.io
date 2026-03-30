@@ -11,7 +11,10 @@ kickoff:
 
 ## Especificação dos trabalhos
 
+
 ### Trabalho 1 (T1): Análise léxica
+
+Ver pasta __T1__ no repositório mata61-trabalhos
 
 ### Trabalho 2 (T2): Análise sintática
 
@@ -22,18 +25,18 @@ kickoff:
 ### Trabalho 5 (T5): Geração de código
 
 
-## Especificação da linguagem LF
+## Especificação da linguagem compL
 
 Especificação da linguagem de programação de alto nível para a qual um compilador será construído ao longo do semestre.
 
 ### Visão geral
 
-### Aspectos léxicos
+- [Aspectos léxicos](./T1-especificacao.md)
 
-### Aspectos sintáticos
+- Aspectos sintáticos
 
-### Aspectos semânticos
+- Aspectos semânticos
 
-### Aspectos pragmáticos
+- Aspectos pragmáticos
 
 
