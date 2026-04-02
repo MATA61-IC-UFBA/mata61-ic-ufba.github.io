@@ -9,34 +9,34 @@ kickoff:
 
 # Projeto e Implementação de um Compilador
 
-## Especificação dos trabalhos
+## A) Especificação dos Trabalhos
 
+Especificação dos trabalhos da disciplina para o semestre letivo.
 
-### Trabalho 1 (T1): Análise léxica
+- T1) Trabalho 1: Análise léxica
 
 Ver pasta __T1__ no repositório mata61-trabalhos
 
-### Trabalho 2 (T2): Análise sintática
+- T2) Trabalho 2: Análise sintática
 
-### Trabalho 3 (T3): Tradução dirigida por sintaxe
+- T3) Trabalho 3: Tradução dirigida por sintaxe
 
-### Trabalho 4 (T4): Análise semântica
+- T4) Trabalho 4: Análise semântica
 
-### Trabalho 5 (T5): Geração de código
+- T5) Trabalho 5: Geração de código
 
 
-## Especificação da linguagem compL
+## B) Especificação da Linguagem de Programação
 
-Especificação da linguagem de programação de alto nível para a qual um compilador será construído ao longo do semestre.
+Especificação da linguagem de programação de alto nível para a qual um compilador será construído ao longo do semestre letivo.
 
-### Visão geral
 
-- [Aspectos léxicos](./T1-especificacao.md)
+- B1) [Aspectos léxicos](./T1-especificacao.md)
 
-- Aspectos sintáticos
+- B2) Aspectos sintáticos
 
-- Aspectos semânticos
+- B3) Aspectos semânticos
 
-- Aspectos pragmáticos
+- B4) Aspectos pragmáticos
 
 
