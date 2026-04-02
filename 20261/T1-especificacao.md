@@ -1,3 +1,12 @@
+---
+layout: 20261/event
+permalink: /20261/trabalhos
+logo: assets/images/logo-ic.png
+title: Especificação de linguagem de programação
+kickoff:
+    year: 20261
+---
+
 # compL 
 
 + [Aspectos Léxicos](#aspectos-léxicos)
@@ -6,8 +15,7 @@
 
 ## Visão Geral
 
-A linguagem compL é uma linguagem “pequena” usada para o ensino de compiladores em cursos de graduação. A linguagem compL inclui expressões, fluxo de controle básico, funções recursivas e 
-verificação de tipos. 
+A linguagem compL é uma linguagem simples  usada para o ensino de compiladores em cursos de graduação. A linguagem compL inclui expressões, fluxo de controle básico, funções recursivas e verificação de tipos. 
 
 ## Aspectos Léxicos
 
@@ -92,7 +100,6 @@ Há duas constantes válidas para o tipo ```boolean```: ```false``` e ```true```
 - símbolo inválido 
 
 ```?``` (caractere não é um símbolo válido)
-```&``` (existe apenas o símbolo composto &&)
 
 Obs.: ```5abc``` não é erro léxico. 
 O analisador deve retornar o token NUM, seguido por token ID.
