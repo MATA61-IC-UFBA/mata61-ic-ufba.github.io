@@ -1,6 +1,6 @@
 ---
 layout: 20261/event
-permalink: /20261/trabalhos
+permalink: /20261/T1-especificacao
 logo: assets/images/logo-ic.png
 title: Especificação de linguagem de programação
 kickoff:
