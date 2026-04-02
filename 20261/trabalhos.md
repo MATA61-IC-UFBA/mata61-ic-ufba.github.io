@@ -13,8 +13,7 @@ kickoff:
 
 Especificação dos trabalhos da disciplina para o semestre letivo.
 
-- T1) Trabalho 1: Análise léxica
-
+- T1) Trabalho 1: Análise léxica.
 Ver pasta __T1__ no repositório mata61-trabalhos
 
 - T2) Trabalho 2: Análise sintática
