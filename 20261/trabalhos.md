@@ -17,6 +17,7 @@ Especificação dos trabalhos da disciplina para o semestre letivo.
 Ver pasta __T1__ no repositório mata61-trabalhos
 
 - T2) Trabalho 2: Análise sintática
+Ver pasta __T2__ no repositório mata61-trabalhos
 
 - T3) Trabalho 3: Tradução dirigida por sintaxe
 
@@ -32,7 +33,7 @@ Especificação da linguagem de programação de alto nível para a qual um comp
 
 - B1) [Aspectos léxicos](./T1-especificacao.md)
 
-- B2) Aspectos sintáticos
+- B2) [Aspectos sintáticos](./T2-especificacao.md)
 
 - B3) Aspectos semânticos
 
