@@ -67,10 +67,6 @@ por uma lista de parâmetros entre '(' e '), o símbolo '=' e, por fim,
 por _código entre {}_. 
 - A função pode ter tipo atômico simples ou _void_ (ver printarray).
 - A lista de parâmetros pode ser vazia, ou conter um ou mais parâmetros separados por ','
-<!--
-- A passagem de parâmetros do tipo integer é boolean é por valor, 
-e para arrays é por referência.
--->
 - A declaração de um parâmetro de tipo simples é similar a declaração de variável simples.
 - A declaração de um parâmetro do tipo array não deve indicar a dimensão do array (ver printarray).
 - Parâmetros não podem ser inicializados na declaração da função.
