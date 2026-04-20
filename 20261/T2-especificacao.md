@@ -115,7 +115,11 @@ não se deve colocar ';' após '}' (ver _printarray_ acima).
 O comando _print_ não é considerado como chamada de função 
 e recebe uma lista de expressões separadas por ','.
 
-- Exemplo: ```print temp, total;```
+- Exemplo: 
+
+```
+print temp, total;
+```
 
 ### Expressões
 
