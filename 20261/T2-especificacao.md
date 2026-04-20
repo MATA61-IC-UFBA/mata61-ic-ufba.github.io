@@ -113,7 +113,9 @@ e recebe uma lista de expressões separadas por ','.
 
 
 ```
+
 print temp, total;
+
 ```
 
 ### Expressões
