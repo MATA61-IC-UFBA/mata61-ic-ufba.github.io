@@ -1,15 +1,15 @@
 ---
-layout: 20261/event
-permalink: /20261/plano
+layout: 20262/event
+permalink: /20262/plano
 logo: assets/images/logo-ic.png
 title: Plano de Aulas
 kickoff:
-    year: 20261
+    year: 20262
 ---
 
 # Plano de Aulas
 
-## Semestre: 2026.1
+## Semestre: 2026.2
 
 - SEG (P), 16:40h - Smart Class II
 - QUA (T), 16:40h - PAF1 - 210
