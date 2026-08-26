@@ -1,10 +1,10 @@
 ---
-layout: 20261/event
-permalink: /20261/trabalhos
+layout: 20262/event
+permalink: /20262/trabalhos
 logo: assets/images/logo-ic.png
 title: Construção de um compilador
 kickoff:
-    year: 20261
+    year: 20262
 ---
 
 # Projeto e Implementação de um Compilador
