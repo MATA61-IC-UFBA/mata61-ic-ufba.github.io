@@ -1,10 +1,10 @@
 ---
-layout: 20261/event
-permalink: /20261/avaliacoes
+layout: 20262/event
+permalink: /20262/avaliacoes
 logo: assets/images/logo-ic.png
 title: Avaliações
 kickoff:
-    year: 20261
+    year: 20262
 ---
 
 # Avaliações
