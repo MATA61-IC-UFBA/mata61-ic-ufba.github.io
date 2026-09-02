@@ -61,7 +61,8 @@ Geração de código intermediário.  Otimização de código intermediário. Ge
 8. WINSKEL, G. The Formal Semantics of Programming Languages: An Introduction. Foundations of Computing series. MIT Press, Cambridge, Massachusetts, February 1993. 
 9. SCOTT, M.L. Programming Language Pragmatics, 3rd ed.
 
-- [R. Nystrom](./Aula01_Compiladores_Introducao_Mapa.md)
+- [Nystrom, Cap. 1](https://craftinginterpreters.com/introduction.html)
+   - [Aula 01](./Aula01_Compiladores_Introducao_Mapa.md)
 
 ### Material de Apoio
 
