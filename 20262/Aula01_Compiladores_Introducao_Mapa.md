@@ -34,7 +34,7 @@ Baseado nos capítulos 1 e 2 de *Crafting Interpreters* (Robert Nystrom)
 - Chamamos hoje de **DSLs** (*domain-specific languages*): linguagens de configuração, templates, linguagens de script embutidas, formatos de marcação.
 - Praticamente todo projeto grande de software acaba precisando construir ou manter um parser/analisador próprio, mesmo quando reaproveita algo pronto.
 
-*(Nystrom, Cap. 1 — [craftinginterpreters.com/introduction.html](https://craftinginterpreters.com/introduction.html))*
+- [Nystrom, Cap. 1](https://craftinginterpreters.com/introduction.html)
 
 ---
 
