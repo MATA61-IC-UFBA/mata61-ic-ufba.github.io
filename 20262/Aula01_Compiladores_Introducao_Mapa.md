@@ -1,8 +1,11 @@
 ---
-marp: true
-theme: default
-paginate: true
-size: 16:9
+layout: 20262/event
+logo: assets/images/logo-ic.png
+title: MATA61 - Compiladores
+event_initials: MATA61
+event_name: Compiladores
+kickoff:
+    year: 20262
 ---
 
 # Compiladores
@@ -24,7 +27,7 @@ Baseado nos capítulos 1 e 2 de *Crafting Interpreters* (Robert Nystrom)
 
 ---
 
-## Por que estudar isso? (1/3)
+## Por que estudar implementação de linguagens? (1/3)
 ### Pequenas linguagens estão em toda parte
 
 - Para cada linguagem de propósito geral bem-sucedida, existem milhares de linguagens de nicho.
