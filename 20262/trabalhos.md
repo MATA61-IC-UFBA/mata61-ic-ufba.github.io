@@ -7,33 +7,21 @@ kickoff:
     year: 20262
 ---
 
-# Projeto e Implementação de um Compilador
+# Projeto e Implementação de um Interpretador
 
 ## A) Especificação dos Trabalhos
 
 Especificação dos trabalhos da disciplina para o semestre letivo.
 
-- T1) Trabalho 1: Análise léxica.
-Ver pasta __T1__ no repositório mata61-trabalhos
-
-- T2) Trabalho 2: Análise sintática
-Ver pasta __T2__ no repositório mata61-trabalhos
-
-- T3) Trabalho 3: Tradução dirigida por sintaxe
-
-- T4) Trabalho 4: Análise semântica
-
-- T5) Trabalho 5: Geração de código
-
 
 ## B) Especificação da Linguagem de Programação
 
-Especificação da linguagem de programação de alto nível para a qual um compilador será construído ao longo do semestre letivo.
+Especificação da linguagem de programação de alto nível para a qual um interpretador será construído ao longo do semestre letivo.
 
 
-- B1) [Aspectos léxicos](./T1-especificacao.md)
+- B1) Aspectos léxicos
 
-- B2) [Aspectos sintáticos](./T2-especificacao.md)
+- B2) Aspectos sintáticos
 
 - B3) Aspectos semânticos
 
