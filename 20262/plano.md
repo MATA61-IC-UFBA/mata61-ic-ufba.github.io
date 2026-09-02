@@ -27,15 +27,16 @@ kickoff:
 | 6 | Bison na prática + construção da AST (lab) | Cap. 5–6 | **M2** — analisador léxico + sintático |
 | 7 | AST — representação, padrão *visitor*, percursos; revisão | Cap. 6 | — |
 | 8 | Semântica I — sistemas de tipos (estático × dinâmico, forte × fraco, nominal × estrutural) | Cap. 7 (ampliado) | — |
-| 9 | Semântica II — tabela de símbolos, escopo léxico × dinâmico, checagem estática vs. verificação em tempo de execução | Cap. 7 (ampliado) | *M3* - verificação de tipos |
-| 10 | Semântica III — inferência de tipos básica; estudo de caso Python/tipagem gradual | Complementar | — |
-| 11 | Estratégias de execução — interpretação em árvore, ambientes e *closures* | Complementar (Crafting Interpreters, Parte II) | — |
+| 9 | Semântica II — tabela de símbolos, escopo léxico × dinâmico, checagem estática vs. verificação em tempo de execução | Cap. 7 (ampliado) |  |
+| 10 | Semântica III — inferência de tipos básica; estudo de caso Python/tipagem gradual | Complementar | *M3* - verificação de tipos |
+| 11 | Estratégias de execução — interpretação em árvore, ambientes e *closures* | Complementar (Crafting Interpreters, Parte II) |  |
 | 12 | Representação de valores em tipagem dinâmica (*tagged values*/*boxing*), erros de tipo em tempo de execução | Complementar | — |
 | 13 | Geração dinâmica de código — bytecode e máquina virtual de pilha; compilação de AST para bytecode | Complementar (Crafting Interpreters, Parte III) | **M4** — interpretador/VM funcional |
 | 14 | Panorama de geração de código nativo/JIT e coleta de lixo (conceitual); otimizações leves | Cap. 9–12 (compactado) | — |
 | 15 | Apresentações finais e avaliação por pares | — | **Entrega final** |
 
 
+<!--
 ### Parte I
 
 | **Dia**  | **Data** | **Assunto**                                             | **Atividade** | **Entrega** |
@@ -46,11 +47,10 @@ kickoff:
 | 6   |  02/9  | [Conceitos básicos de análise léxica](https://www.dropbox.com/scl/fi/fwa19tjod44apseln3iyb/ch03-2ed-Scanning-Thain-Compiler-Book.pdf?rlkey=bpwxzp7g1zxpsqbmwtlui40ow&st=wlp28u3v&dl=0) | Leitura do Cap. 3 | | 
 |        |        | Revisão: Expressões regulares (ER) e Autômatos Finitos |          | | 
 | 7   | Feriado | | | | 
-| 8   |  09/96  | Implementação de analisadores léxicos. [Flex](https://www.dropbox.com/scl/fi/ew65m7cu5wf7yh0bogyy2/ch2-en-1ed-Levine-Flex_Bison-2009-flex.pdf?rlkey=eiwpswu2m3qcs2r7rr184y6in&st=d48feb9r&dl=0) | Exercício 1 - Calculadora: aspectos léxicos | |
+| 8   |  09/9   | Implementação de analisadores léxicos. [Flex](https://www.dropbox.com/scl/fi/ew65m7cu5wf7yh0bogyy2/ch2-en-1ed-Levine-Flex_Bison-2009-flex.pdf?rlkey=eiwpswu2m3qcs2r7rr184y6in&st=d48feb9r&dl=0) | Exercício 1 - Calculadora: aspectos léxicos | |
 | 9   |  14/9  | [Conceitos básicos de análise sintática](https://www.dropbox.com/scl/fi/3euqwn6nj0i8i1kp6n9x5/ch04-2ed-Parsing-Thain-Compiler-Book-1-conceitos.pdf?rlkey=wsps861hfih1e9vi8p8rsm250&st=r0163khx&dl=0) | Apresentação da especificação de T1 | |
 | 10  |  16/9  | Implementação de T1 | | |
-
-<!--
+|     |        |                     | | | 
 | 6   |  07  | Análise sintática descendente. [Análise LL(1)](https://www.dropbox.com/scl/fi/m0ea8mzhtj20dxnw934o8/ch04-2ed-Parsing-Thain-Compiler-Book-2-top-down_LL.pdf?rlkey=4t59393k5zp7ckpaflvzyftlx&st=9wi6wlg6&dl=0) | | |
 | 7   |  09  | Bison I | Exercício 2 - Calculadora: integração com Flex | Entrega de T1 |
 | 8   |  14  | Análise sintática ascendente. [Análise LR](https://www.dropbox.com/scl/fi/9l9xq909fqs7qh2r2nds6/ch04-2ed-Parsing-Thain-Compiler-Book-3-bottom-up_LR.pdf?rlkey=ith3jam7mob5weec5l3ncxe0a&st=b9u6vag0&dl=0) | Apresentação da especificação de T2 | |
@@ -90,7 +90,7 @@ kickoff:
 | 34 | 14 | Discussão | | |
 | 35 | 16 | Discussão | | |
 
-<--
+-->
 
 * Final do semestre: 19/12/2026
 
