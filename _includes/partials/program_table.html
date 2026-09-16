@@ -1,0 +1,38 @@
+{% assign n_days = site.data.program.days | size -%}
+
+{% for day in site.data.program.days -%}
+  <div>{{ day.name }}</div>
+{%- endfor -%}
+
+{% for day in site.data.program.days %}
+  {% assign n_rooms = day.rooms | size -%}
+  <table class="program-table">
+    <tr>
+      <th class="col-time">&nbsp;</th>
+      {%- for room in day.rooms -%}
+        <th class="col-room" style="width: calc(100%/{{ n_rooms }})">{{ room.name }}</th>
+      {%- endfor -%}
+    </tr>
+
+    {%- for slot in day.slots -%}
+      <tr>
+        <td style="text-align: right;">{{ slot }}</td>
+        {%- if day.roomless[slot] -%}
+          <td colspan="{{ n_rooms }}" style="color: red; text-align: center;">{{ day.roomless[slot].title }}</td>
+        {%- else -%}
+          {%- for room in day.rooms -%}
+            {%- assign talk = room.talks[slot] -%}
+            {%- if talk and talk.placeholder -%}
+            {%- elsif talk -%}
+              <td rowspan="{{ talk.span || 1 }}"><b>{{ talk.presenter }}</b><br>{{ talk.title }}</td>
+            {%- else -%}
+              <td>&nbsp;</td>
+            {%- endif -%}
+          {%- endfor -%}
+        {%- endif -%}
+      </tr>
+    {%- endfor -%}
+  </table>
+{%- endfor -%}
+
+{{ content }}

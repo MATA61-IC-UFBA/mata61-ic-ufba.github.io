@@ -1,0 +1,57 @@
+<!--==================================
+=            Statistics              =
+===================================-->
+
+<section class="registration">
+	<div class="container-fluid p-0">
+		<div class="row">
+			<div class="col-lg-12 col-md-12 p-0">
+				<div class="service-block bg-service overlay-primary text-center">
+					<div class="row no-gutters">
+						<div class="col-6">
+							<!-- Service item -->
+							<div class="service-item">
+								<i class="fa fa-microphone"></i>
+								<h5>{{ page.program.talks.size }} Apresentações</h5>
+							</div>
+						</div>
+						<div class="col-6">
+							<!-- Service item -->
+							<div class="service-item">
+								<i class="fa fa-flag"></i>
+								<h5>{{ page.program.sessions.size }} Sessões</h5>
+							</div>
+						</div>
+						<div class="col-6">
+							<!-- Service item -->
+							<div class="service-item">
+								<i class="fa fa-map-marker"></i>
+								<h5>{{ page.program.days | map: 'room' | size }} salas</h5>
+							</div>
+						</div>
+						<div class="col-6">
+							<!-- Service item -->
+							<div class="service-item">
+								<i class="fa fa-calendar"></i>
+								<h5>{{ page.program.days.size }} dias de evento</h5>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-6 col-md-12 p-0">
+				<!-- <div class="registration-block bg-registration overlay-dark">
+					<div class="block">
+						<div class="title text-left">
+							<h3>Sobre o {{ page.event_initials }}</h3>
+							<p>{{ page.about1 }}</p>
+              <p>{{ page.about2 }}</p>
+						</div>
+					</div>
+				</div> -->
+			</div>
+		</div>
+	</div>
+</section>
+
+<!--====  End of Statistics  ====-->
