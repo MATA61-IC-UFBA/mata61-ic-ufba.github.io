@@ -9,7 +9,7 @@ kickoff:
 
 # Exercícios
 
-* [E1](./exercises/E1) - Flex e análise léxica
+* [E1](./exercises/E1/Readme) - Flex e análise léxica
 * E2 - Bison e análise sintática
 * E3 - Bison e ações 
 * E4 - Bison e construção da AST
