@@ -1,3 +1,12 @@
+---
+layout: 20262/event
+permalink: /20262/exercicios/E1/Readme
+logo: assets/images/logo-ic.png
+title: Exercício 1 (E1)
+kickoff:
+    year: 20262
+---
+
 # Exercício 1 (E1) - Análise Léxica
 
 
